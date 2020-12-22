@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbff21fe-33bd-4a62-a05e-e6c9642ac922" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rlcard/envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlcard/envs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlcard/envs/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlcard/envs/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlcard/games/doudizhu/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlcard/games/doudizhu/game.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/rlcard/games/belote/utils.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JupyterTrust" id="02166635-e283-4633-8e53-5ac1480bfb34" />
+  <component name="ProjectId" id="1jjkAJRNcAHDiP78r7nWtcg0zaw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../profiler_utils/profiler_utils/pipeline.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bblanc2\00 Profiler\libs\rlcard\rlcard\games\belote" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rlcard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rlcard/games/belote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rlcard/games/belote/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbff21fe-33bd-4a62-a05e-e6c9642ac922" name="Default Changelist" comment="" />
+      <created>1604324745050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604324745050</updated>
+      <workItem from="1604324747508" duration="50751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604420864270">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.683@0.0.1280.683" timestamp="1604420864270" />
+    <state x="484" y="231" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1604477452222">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="484" y="231" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1280.683@0.0.1280.683" timestamp="1604477452222" />
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1604488137617">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.683@0.0.1280.683" timestamp="1604488137617" />
+    <state width="654" height="438" key="DebuggerActiveHint" timestamp="1604480843566">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="654" height="438" key="DebuggerActiveHint/0.0.1280.683@0.0.1280.683" timestamp="1604480843566" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1604419913186">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.683@0.0.1280.683" timestamp="1604419913186" />
+    <state width="1237" height="228" key="GridCell.Tab.0.bottom" timestamp="1604663351494">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.683@0.0.1280.683" timestamp="1604663351494" />
+    <state width="1237" height="228" key="GridCell.Tab.0.center" timestamp="1604663351494">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.683@0.0.1280.683" timestamp="1604663351494" />
+    <state width="1237" height="228" key="GridCell.Tab.0.left" timestamp="1604663351494">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.683@0.0.1280.683" timestamp="1604663351494" />
+    <state width="1237" height="228" key="GridCell.Tab.0.right" timestamp="1604663351494">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.683@0.0.1280.683" timestamp="1604663351494" />
+    <state width="1237" height="228" key="GridCell.Tab.1.bottom" timestamp="1604663394783">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.1.bottom/0.0.1280.683@0.0.1280.683" timestamp="1604663394783" />
+    <state width="1237" height="228" key="GridCell.Tab.1.center" timestamp="1604663394783">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.1.center/0.0.1280.683@0.0.1280.683" timestamp="1604663394783" />
+    <state width="1237" height="228" key="GridCell.Tab.1.left" timestamp="1604663394783">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.1.left/0.0.1280.683@0.0.1280.683" timestamp="1604663394783" />
+    <state width="1237" height="228" key="GridCell.Tab.1.right" timestamp="1604663394783">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="228" key="GridCell.Tab.1.right/0.0.1280.683@0.0.1280.683" timestamp="1604663394783" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1604419926755">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.683@0.0.1280.683" timestamp="1604419926755" />
+    <state width="647" height="348" key="XDebugger.FullValuePopup" timestamp="1604581458807">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="647" height="348" key="XDebugger.FullValuePopup/0.0.1280.683@0.0.1280.683" timestamp="1604581458807" />
+    <state x="194" y="70" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604663010331">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="194" y="70" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.683@0.0.1280.683" timestamp="1604663010331" />
+    <state x="43" y="0" width="1251" height="656" maximized="true" key="dock-window-1" timestamp="1604419255741">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="43" y="0" width="1251" height="656" maximized="true" key="dock-window-1/0.0.1280.683@0.0.1280.683" timestamp="1604419255741" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/games/belote/game.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/games/belote/player.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/env.py</url>
+          <line>205</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/env.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/games/belote/game.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/env.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/belote.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/belote.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/belote.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/envs/env.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/games/belote/round.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/games/belote/round.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlcard/agents/dqn_agent.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="action" />
+        <watch expression="players[0].stack" />
+        <watch expression="players[1].stack" />
+        <watch expression="players[2].stack" />
+        <watch expression="players[3].stack" />
+        <watch expression="self.public" />
+        <watch expression="self.current_player" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rlcard$test.coverage" NAME="test Coverage Results" MODIFIED="1604663285951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rlcard/games/belote" />
+  </component>
+</project>

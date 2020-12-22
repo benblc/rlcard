@@ -1,0 +1,5472 @@
+
+########## Evaluation ##########
+Timestep: 1 Average reward is -0.2654
+
+########## Evaluation ##########
+Timestep: 136 Average reward is -0.6396
+
+########## Evaluation ##########
+Timestep: 271 Average reward is -0.6076
+
+########## Evaluation ##########
+Timestep: 402 Average reward is -0.5777
+
+########## Evaluation ##########
+Timestep: 537 Average reward is -0.5691
+
+########## Evaluation ##########
+Timestep: 681 Average reward is -0.4811
+
+########## Evaluation ##########
+Timestep: 824 Average reward is -0.4269
+
+########## Evaluation ##########
+Timestep: 958 Average reward is -0.3435
+
+########## Evaluation ##########
+Timestep: 1093 Average reward is -0.2652
+
+########## Evaluation ##########
+Timestep: 1221 Average reward is -0.1776
+
+########## Evaluation ##########
+Timestep: 1350 Average reward is -0.1549
+
+########## Evaluation ##########
+Timestep: 1487 Average reward is -0.1557
+
+########## Evaluation ##########
+Timestep: 1614 Average reward is -0.1797
+
+########## Evaluation ##########
+Timestep: 1756 Average reward is -0.1626
+
+########## Evaluation ##########
+Timestep: 1891 Average reward is -0.1614
+
+########## Evaluation ##########
+Timestep: 2029 Average reward is -0.1708
+
+########## Evaluation ##########
+Timestep: 2165 Average reward is -0.1742
+
+########## Evaluation ##########
+Timestep: 2291 Average reward is -0.1402
+
+########## Evaluation ##########
+Timestep: 2424 Average reward is -0.1574
+
+########## Evaluation ##########
+Timestep: 2567 Average reward is -0.1375
+
+########## Evaluation ##########
+Timestep: 2698 Average reward is -0.1266
+
+########## Evaluation ##########
+Timestep: 2841 Average reward is -0.1149
+
+########## Evaluation ##########
+Timestep: 2977 Average reward is -0.1185
+
+########## Evaluation ##########
+Timestep: 3108 Average reward is -0.1362
+
+########## Evaluation ##########
+Timestep: 3242 Average reward is -0.1073
+
+########## Evaluation ##########
+Timestep: 3376 Average reward is -0.0956
+
+########## Evaluation ##########
+Timestep: 3519 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 3659 Average reward is -0.1033
+
+########## Evaluation ##########
+Timestep: 3795 Average reward is -0.1028
+
+########## Evaluation ##########
+Timestep: 3935 Average reward is -0.0822
+
+########## Evaluation ##########
+Timestep: 4075 Average reward is -0.0914
+
+########## Evaluation ##########
+Timestep: 4208 Average reward is -0.0761
+
+########## Evaluation ##########
+Timestep: 4347 Average reward is -0.0878
+
+########## Evaluation ##########
+Timestep: 4486 Average reward is -0.0974
+
+########## Evaluation ##########
+Timestep: 4618 Average reward is -0.0929
+
+########## Evaluation ##########
+Timestep: 4757 Average reward is -0.0826
+
+########## Evaluation ##########
+Timestep: 4890 Average reward is -0.0622
+
+########## Evaluation ##########
+Timestep: 5034 Average reward is -0.0858
+
+########## Evaluation ##########
+Timestep: 5180 Average reward is -0.0883
+
+########## Evaluation ##########
+Timestep: 5315 Average reward is -0.096
+
+########## Evaluation ##########
+Timestep: 5452 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 5582 Average reward is -0.08
+
+########## Evaluation ##########
+Timestep: 5712 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 5846 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 5982 Average reward is -0.0835
+
+########## Evaluation ##########
+Timestep: 6122 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 6261 Average reward is -0.0741
+
+########## Evaluation ##########
+Timestep: 6393 Average reward is -0.0855
+
+########## Evaluation ##########
+Timestep: 6526 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 6669 Average reward is -0.0828
+
+########## Evaluation ##########
+Timestep: 6799 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 6921 Average reward is -0.0701
+
+########## Evaluation ##########
+Timestep: 7060 Average reward is -0.0886
+
+########## Evaluation ##########
+Timestep: 7194 Average reward is -0.0732
+
+########## Evaluation ##########
+Timestep: 7334 Average reward is -0.0805
+
+########## Evaluation ##########
+Timestep: 7461 Average reward is -0.0858
+
+########## Evaluation ##########
+Timestep: 7609 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 7745 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 7880 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 8028 Average reward is -0.0804
+
+########## Evaluation ##########
+Timestep: 8168 Average reward is -0.0826
+
+########## Evaluation ##########
+Timestep: 8304 Average reward is -0.0647
+
+########## Evaluation ##########
+Timestep: 8446 Average reward is -0.0699
+
+########## Evaluation ##########
+Timestep: 8584 Average reward is -0.071
+
+########## Evaluation ##########
+Timestep: 8723 Average reward is -0.0931
+
+########## Evaluation ##########
+Timestep: 8874 Average reward is -0.0778
+
+########## Evaluation ##########
+Timestep: 9022 Average reward is -0.076
+
+########## Evaluation ##########
+Timestep: 9157 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 9289 Average reward is -0.0898
+
+########## Evaluation ##########
+Timestep: 9419 Average reward is -0.0904
+
+########## Evaluation ##########
+Timestep: 9555 Average reward is -0.0711
+
+########## Evaluation ##########
+Timestep: 9692 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 9825 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 9959 Average reward is -0.0517
+
+########## Evaluation ##########
+Timestep: 10100 Average reward is -0.0821
+
+########## Evaluation ##########
+Timestep: 10243 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 10394 Average reward is -0.0818
+
+########## Evaluation ##########
+Timestep: 10534 Average reward is -0.0446
+
+########## Evaluation ##########
+Timestep: 10673 Average reward is -0.0858
+
+########## Evaluation ##########
+Timestep: 10816 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 10967 Average reward is -0.0815
+
+########## Evaluation ##########
+Timestep: 11101 Average reward is -0.0787
+
+########## Evaluation ##########
+Timestep: 11232 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 11373 Average reward is -0.0774
+
+########## Evaluation ##########
+Timestep: 11528 Average reward is -0.0655
+
+########## Evaluation ##########
+Timestep: 11670 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 11804 Average reward is -0.0779
+
+########## Evaluation ##########
+Timestep: 11937 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 12077 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 12220 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 12352 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 12500 Average reward is -0.0892
+
+########## Evaluation ##########
+Timestep: 12645 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 12775 Average reward is -0.0776
+
+########## Evaluation ##########
+Timestep: 12908 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 13057 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 13196 Average reward is -0.0808
+
+########## Evaluation ##########
+Timestep: 13337 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 13486 Average reward is -0.0793
+
+########## Evaluation ##########
+Timestep: 13633 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 13769 Average reward is -0.0731
+
+########## Evaluation ##########
+Timestep: 13916 Average reward is -0.0737
+
+########## Evaluation ##########
+Timestep: 14051 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 14183 Average reward is -0.0612
+
+########## Evaluation ##########
+Timestep: 14328 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 14476 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 14626 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 14758 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 14892 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 15038 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 15179 Average reward is -0.0736
+
+########## Evaluation ##########
+Timestep: 15329 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 15476 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 15622 Average reward is -0.0807
+
+########## Evaluation ##########
+Timestep: 15774 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 15922 Average reward is -0.0761
+
+########## Evaluation ##########
+Timestep: 16068 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 16203 Average reward is -0.079
+
+########## Evaluation ##########
+Timestep: 16339 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 16480 Average reward is -0.0622
+
+########## Evaluation ##########
+Timestep: 16610 Average reward is -0.0589
+
+########## Evaluation ##########
+Timestep: 16751 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 16893 Average reward is -0.0647
+
+########## Evaluation ##########
+Timestep: 17036 Average reward is -0.0817
+
+########## Evaluation ##########
+Timestep: 17179 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 17319 Average reward is -0.0784
+
+########## Evaluation ##########
+Timestep: 17448 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 17592 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 17733 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 17893 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 18024 Average reward is -0.0809
+
+########## Evaluation ##########
+Timestep: 18170 Average reward is -0.0821
+
+########## Evaluation ##########
+Timestep: 18310 Average reward is -0.0745
+
+########## Evaluation ##########
+Timestep: 18457 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 18599 Average reward is -0.0476
+
+########## Evaluation ##########
+Timestep: 18739 Average reward is -0.0753
+
+########## Evaluation ##########
+Timestep: 18889 Average reward is -0.0722
+
+########## Evaluation ##########
+Timestep: 19030 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 19173 Average reward is -0.0778
+
+########## Evaluation ##########
+Timestep: 19316 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 19460 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 19591 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 19727 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 19881 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 20013 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 20154 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 20299 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 20447 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 20597 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 20733 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 20872 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 21008 Average reward is -0.0705
+
+########## Evaluation ##########
+Timestep: 21144 Average reward is -0.0721
+
+########## Evaluation ##########
+Timestep: 21281 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 21426 Average reward is -0.0895
+
+########## Evaluation ##########
+Timestep: 21574 Average reward is -0.0699
+
+########## Evaluation ##########
+Timestep: 21715 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 21862 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 22013 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 22155 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 22295 Average reward is -0.082
+
+########## Evaluation ##########
+Timestep: 22442 Average reward is -0.0642
+
+########## Evaluation ##########
+Timestep: 22584 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 22727 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 22873 Average reward is -0.0763
+
+########## Evaluation ##########
+Timestep: 23017 Average reward is -0.0546
+
+########## Evaluation ##########
+Timestep: 23160 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 23309 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 23461 Average reward is -0.0677
+
+########## Evaluation ##########
+Timestep: 23614 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 23764 Average reward is -0.0478
+
+########## Evaluation ##########
+Timestep: 23903 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 24048 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 24195 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 24340 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 24480 Average reward is -0.0639
+
+########## Evaluation ##########
+Timestep: 24619 Average reward is -0.0899
+
+########## Evaluation ##########
+Timestep: 24759 Average reward is -0.0451
+
+########## Evaluation ##########
+Timestep: 24901 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 25045 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 25191 Average reward is -0.058
+
+########## Evaluation ##########
+Timestep: 25336 Average reward is -0.0895
+
+########## Evaluation ##########
+Timestep: 25477 Average reward is -0.0576
+
+########## Evaluation ##########
+Timestep: 25612 Average reward is -0.0816
+
+########## Evaluation ##########
+Timestep: 25766 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 25909 Average reward is -0.078
+
+########## Evaluation ##########
+Timestep: 26056 Average reward is -0.0506
+
+########## Evaluation ##########
+Timestep: 26200 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 26346 Average reward is -0.0649
+
+########## Evaluation ##########
+Timestep: 26491 Average reward is -0.0639
+
+########## Evaluation ##########
+Timestep: 26637 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 26791 Average reward is -0.0709
+
+########## Evaluation ##########
+Timestep: 26947 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 27092 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 27231 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 27378 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 27523 Average reward is -0.0785
+
+########## Evaluation ##########
+Timestep: 27674 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 27818 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 27966 Average reward is -0.0623
+
+########## Evaluation ##########
+Timestep: 28114 Average reward is -0.0744
+
+########## Evaluation ##########
+Timestep: 28265 Average reward is -0.0725
+
+########## Evaluation ##########
+Timestep: 28405 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 28555 Average reward is -0.0649
+
+########## Evaluation ##########
+Timestep: 28697 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 28843 Average reward is -0.0639
+
+########## Evaluation ##########
+Timestep: 28986 Average reward is -0.0676
+
+########## Evaluation ##########
+Timestep: 29141 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 29289 Average reward is -0.0662
+
+########## Evaluation ##########
+Timestep: 29441 Average reward is -0.0739
+
+########## Evaluation ##########
+Timestep: 29583 Average reward is -0.0703
+
+########## Evaluation ##########
+Timestep: 29737 Average reward is -0.0901
+
+########## Evaluation ##########
+Timestep: 29887 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 30027 Average reward is -0.0738
+
+########## Evaluation ##########
+Timestep: 30162 Average reward is -0.081
+
+########## Evaluation ##########
+Timestep: 30305 Average reward is -0.0839
+
+########## Evaluation ##########
+Timestep: 30457 Average reward is -0.0554
+
+########## Evaluation ##########
+Timestep: 30610 Average reward is -0.0766
+
+########## Evaluation ##########
+Timestep: 30753 Average reward is -0.0621
+
+########## Evaluation ##########
+Timestep: 30906 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 31059 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 31214 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 31363 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 31512 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 31657 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 31800 Average reward is -0.0851
+
+########## Evaluation ##########
+Timestep: 31940 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 32084 Average reward is -0.071
+
+########## Evaluation ##########
+Timestep: 32228 Average reward is -0.0823
+
+########## Evaluation ##########
+Timestep: 32392 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 32543 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 32692 Average reward is -0.0717
+
+########## Evaluation ##########
+Timestep: 32831 Average reward is -0.0884
+
+########## Evaluation ##########
+Timestep: 32974 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 33122 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 33278 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 33432 Average reward is -0.0531
+
+########## Evaluation ##########
+Timestep: 33588 Average reward is -0.0769
+
+########## Evaluation ##########
+Timestep: 33736 Average reward is -0.0811
+
+########## Evaluation ##########
+Timestep: 33875 Average reward is -0.0816
+
+########## Evaluation ##########
+Timestep: 34022 Average reward is -0.0674
+
+########## Evaluation ##########
+Timestep: 34165 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 34315 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 34467 Average reward is -0.0489
+
+########## Evaluation ##########
+Timestep: 34615 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 34766 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 34918 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 35066 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 35224 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 35387 Average reward is -0.0787
+
+########## Evaluation ##########
+Timestep: 35535 Average reward is -0.0765
+
+########## Evaluation ##########
+Timestep: 35694 Average reward is -0.0862
+
+########## Evaluation ##########
+Timestep: 35849 Average reward is -0.0554
+
+########## Evaluation ##########
+Timestep: 35993 Average reward is -0.0861
+
+########## Evaluation ##########
+Timestep: 36139 Average reward is -0.0794
+
+########## Evaluation ##########
+Timestep: 36281 Average reward is -0.0743
+
+########## Evaluation ##########
+Timestep: 36435 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 36588 Average reward is -0.0679
+
+########## Evaluation ##########
+Timestep: 36749 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 36894 Average reward is -0.0892
+
+########## Evaluation ##########
+Timestep: 37051 Average reward is -0.076
+
+########## Evaluation ##########
+Timestep: 37202 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 37356 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 37518 Average reward is -0.0735
+
+########## Evaluation ##########
+Timestep: 37680 Average reward is -0.0739
+
+########## Evaluation ##########
+Timestep: 37822 Average reward is -0.0881
+
+########## Evaluation ##########
+Timestep: 37971 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 38113 Average reward is -0.0796
+
+########## Evaluation ##########
+Timestep: 38263 Average reward is -0.0677
+
+########## Evaluation ##########
+Timestep: 38402 Average reward is -0.0895
+
+########## Evaluation ##########
+Timestep: 38549 Average reward is -0.0985
+
+########## Evaluation ##########
+Timestep: 38701 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 38845 Average reward is -0.0761
+
+########## Evaluation ##########
+Timestep: 38997 Average reward is -0.0747
+
+########## Evaluation ##########
+Timestep: 39159 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 39302 Average reward is -0.0721
+
+########## Evaluation ##########
+Timestep: 39457 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 39613 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 39770 Average reward is -0.0763
+
+########## Evaluation ##########
+Timestep: 39926 Average reward is -0.0921
+
+########## Evaluation ##########
+Timestep: 40083 Average reward is -0.0832
+
+########## Evaluation ##########
+Timestep: 40245 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 40406 Average reward is -0.0777
+
+########## Evaluation ##########
+Timestep: 40559 Average reward is -0.0686
+
+########## Evaluation ##########
+Timestep: 40721 Average reward is -0.0745
+
+########## Evaluation ##########
+Timestep: 40882 Average reward is -0.0824
+
+########## Evaluation ##########
+Timestep: 41045 Average reward is -0.0655
+
+########## Evaluation ##########
+Timestep: 41197 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 41351 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 41506 Average reward is -0.0855
+
+########## Evaluation ##########
+Timestep: 41662 Average reward is -0.0797
+
+########## Evaluation ##########
+Timestep: 41810 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 41968 Average reward is -0.0729
+
+########## Evaluation ##########
+Timestep: 42120 Average reward is -0.0637
+
+########## Evaluation ##########
+Timestep: 42266 Average reward is -0.0844
+
+########## Evaluation ##########
+Timestep: 42419 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 42566 Average reward is -0.0813
+
+########## Evaluation ##########
+Timestep: 42708 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 42872 Average reward is -0.0697
+
+########## Evaluation ##########
+Timestep: 43010 Average reward is -0.0741
+
+########## Evaluation ##########
+Timestep: 43167 Average reward is -0.0737
+
+########## Evaluation ##########
+Timestep: 43320 Average reward is -0.0656
+
+########## Evaluation ##########
+Timestep: 43479 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 43630 Average reward is -0.0887
+
+########## Evaluation ##########
+Timestep: 43770 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 43918 Average reward is -0.0812
+
+########## Evaluation ##########
+Timestep: 44063 Average reward is -0.0848
+
+########## Evaluation ##########
+Timestep: 44216 Average reward is -0.0888
+
+########## Evaluation ##########
+Timestep: 44363 Average reward is -0.0821
+
+########## Evaluation ##########
+Timestep: 44509 Average reward is -0.0851
+
+########## Evaluation ##########
+Timestep: 44652 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 44797 Average reward is -0.0745
+
+########## Evaluation ##########
+Timestep: 44947 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 45112 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 45265 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 45410 Average reward is -0.0867
+
+########## Evaluation ##########
+Timestep: 45558 Average reward is -0.0848
+
+########## Evaluation ##########
+Timestep: 45713 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 45882 Average reward is -0.0804
+
+########## Evaluation ##########
+Timestep: 46027 Average reward is -0.0565
+
+########## Evaluation ##########
+Timestep: 46174 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 46318 Average reward is -0.0619
+
+########## Evaluation ##########
+Timestep: 46458 Average reward is -0.0754
+
+########## Evaluation ##########
+Timestep: 46616 Average reward is -0.09
+
+########## Evaluation ##########
+Timestep: 46781 Average reward is -0.0765
+
+########## Evaluation ##########
+Timestep: 46929 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 47078 Average reward is -0.0853
+
+########## Evaluation ##########
+Timestep: 47233 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 47381 Average reward is -0.0594
+
+########## Evaluation ##########
+Timestep: 47523 Average reward is -0.0847
+
+########## Evaluation ##########
+Timestep: 47671 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 47822 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 47963 Average reward is -0.0762
+
+########## Evaluation ##########
+Timestep: 48119 Average reward is -0.0731
+
+########## Evaluation ##########
+Timestep: 48273 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 48427 Average reward is -0.082
+
+########## Evaluation ##########
+Timestep: 48576 Average reward is -0.0686
+
+########## Evaluation ##########
+Timestep: 48735 Average reward is -0.0543
+
+########## Evaluation ##########
+Timestep: 48890 Average reward is -0.0754
+
+########## Evaluation ##########
+Timestep: 49044 Average reward is -0.0797
+
+########## Evaluation ##########
+Timestep: 49196 Average reward is -0.0884
+
+########## Evaluation ##########
+Timestep: 49346 Average reward is -0.0547
+
+########## Evaluation ##########
+Timestep: 49506 Average reward is -0.082
+
+########## Evaluation ##########
+Timestep: 49680 Average reward is -0.0871
+
+########## Evaluation ##########
+Timestep: 49828 Average reward is -0.0655
+
+########## Evaluation ##########
+Timestep: 49983 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 50125 Average reward is -0.076
+
+########## Evaluation ##########
+Timestep: 50284 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 50441 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 50589 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 50765 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 50933 Average reward is -0.0644
+
+########## Evaluation ##########
+Timestep: 51090 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 51252 Average reward is -0.0703
+
+########## Evaluation ##########
+Timestep: 51407 Average reward is -0.0912
+
+########## Evaluation ##########
+Timestep: 51564 Average reward is -0.0873
+
+########## Evaluation ##########
+Timestep: 51716 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 51874 Average reward is -0.0963
+
+########## Evaluation ##########
+Timestep: 52029 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 52180 Average reward is -0.0852
+
+########## Evaluation ##########
+Timestep: 52327 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 52483 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 52642 Average reward is -0.0755
+
+########## Evaluation ##########
+Timestep: 52788 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 52947 Average reward is -0.0785
+
+########## Evaluation ##########
+Timestep: 53088 Average reward is -0.0822
+
+########## Evaluation ##########
+Timestep: 53243 Average reward is -0.0796
+
+########## Evaluation ##########
+Timestep: 53384 Average reward is -0.0738
+
+########## Evaluation ##########
+Timestep: 53545 Average reward is -0.0673
+
+########## Evaluation ##########
+Timestep: 53706 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 53866 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 54017 Average reward is -0.0554
+
+########## Evaluation ##########
+Timestep: 54167 Average reward is -0.0736
+
+########## Evaluation ##########
+Timestep: 54316 Average reward is -0.0745
+
+########## Evaluation ##########
+Timestep: 54490 Average reward is -0.0811
+
+########## Evaluation ##########
+Timestep: 54639 Average reward is -0.0759
+
+########## Evaluation ##########
+Timestep: 54802 Average reward is -0.0872
+
+########## Evaluation ##########
+Timestep: 54947 Average reward is -0.0669
+
+########## Evaluation ##########
+Timestep: 55099 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 55258 Average reward is -0.0824
+
+########## Evaluation ##########
+Timestep: 55396 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 55550 Average reward is -0.076
+
+########## Evaluation ##########
+Timestep: 55712 Average reward is -0.0755
+
+########## Evaluation ##########
+Timestep: 55853 Average reward is -0.0787
+
+########## Evaluation ##########
+Timestep: 56018 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 56173 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 56327 Average reward is -0.0931
+
+########## Evaluation ##########
+Timestep: 56485 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 56648 Average reward is -0.0893
+
+########## Evaluation ##########
+Timestep: 56804 Average reward is -0.0788
+
+########## Evaluation ##########
+Timestep: 56950 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 57101 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 57258 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 57409 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 57568 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 57728 Average reward is -0.0597
+
+########## Evaluation ##########
+Timestep: 57884 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 58037 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 58191 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 58351 Average reward is -0.0851
+
+########## Evaluation ##########
+Timestep: 58516 Average reward is -0.0438
+
+########## Evaluation ##########
+Timestep: 58668 Average reward is -0.0771
+
+########## Evaluation ##########
+Timestep: 58818 Average reward is -0.0701
+
+########## Evaluation ##########
+Timestep: 58962 Average reward is -0.0629
+
+########## Evaluation ##########
+Timestep: 59111 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 59270 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 59431 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 59579 Average reward is -0.0681
+
+########## Evaluation ##########
+Timestep: 59729 Average reward is -0.0825
+
+########## Evaluation ##########
+Timestep: 59884 Average reward is -0.0585
+
+########## Evaluation ##########
+Timestep: 60055 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 60206 Average reward is -0.0927
+
+########## Evaluation ##########
+Timestep: 60357 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 60510 Average reward is -0.0945
+
+########## Evaluation ##########
+Timestep: 60667 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 60818 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 60979 Average reward is -0.0739
+
+########## Evaluation ##########
+Timestep: 61145 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 61303 Average reward is -0.0789
+
+########## Evaluation ##########
+Timestep: 61459 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 61614 Average reward is -0.0921
+
+########## Evaluation ##########
+Timestep: 61782 Average reward is -0.0864
+
+########## Evaluation ##########
+Timestep: 61930 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 62087 Average reward is -0.0812
+
+########## Evaluation ##########
+Timestep: 62237 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 62407 Average reward is -0.0487
+
+########## Evaluation ##########
+Timestep: 62559 Average reward is -0.0705
+
+########## Evaluation ##########
+Timestep: 62713 Average reward is -0.0852
+
+########## Evaluation ##########
+Timestep: 62865 Average reward is -0.0757
+
+########## Evaluation ##########
+Timestep: 63015 Average reward is -0.0697
+
+########## Evaluation ##########
+Timestep: 63161 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 63314 Average reward is -0.0586
+
+########## Evaluation ##########
+Timestep: 63467 Average reward is -0.082
+
+########## Evaluation ##########
+Timestep: 63619 Average reward is -0.0831
+
+########## Evaluation ##########
+Timestep: 63776 Average reward is -0.0776
+
+########## Evaluation ##########
+Timestep: 63945 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 64090 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 64246 Average reward is -0.0726
+
+########## Evaluation ##########
+Timestep: 64399 Average reward is -0.0669
+
+########## Evaluation ##########
+Timestep: 64560 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 64730 Average reward is -0.0796
+
+########## Evaluation ##########
+Timestep: 64885 Average reward is -0.0585
+
+########## Evaluation ##########
+Timestep: 65031 Average reward is -0.0743
+
+########## Evaluation ##########
+Timestep: 65187 Average reward is -0.0517
+
+########## Evaluation ##########
+Timestep: 65341 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 65483 Average reward is -0.0822
+
+########## Evaluation ##########
+Timestep: 65637 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 65798 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 65949 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 66104 Average reward is -0.0697
+
+########## Evaluation ##########
+Timestep: 66249 Average reward is -0.0833
+
+########## Evaluation ##########
+Timestep: 66406 Average reward is -0.0708
+
+########## Evaluation ##########
+Timestep: 66551 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 66690 Average reward is -0.0793
+
+########## Evaluation ##########
+Timestep: 66842 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 66997 Average reward is -0.051
+
+########## Evaluation ##########
+Timestep: 67155 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 67318 Average reward is -0.0677
+
+########## Evaluation ##########
+Timestep: 67468 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 67632 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 67777 Average reward is -0.0637
+
+########## Evaluation ##########
+Timestep: 67927 Average reward is -0.0686
+
+########## Evaluation ##########
+Timestep: 68088 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 68248 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 68405 Average reward is -0.0798
+
+########## Evaluation ##########
+Timestep: 68548 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 68704 Average reward is -0.085
+
+########## Evaluation ##########
+Timestep: 68867 Average reward is -0.0508
+
+########## Evaluation ##########
+Timestep: 69036 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 69185 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 69344 Average reward is -0.0816
+
+########## Evaluation ##########
+Timestep: 69491 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 69649 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 69807 Average reward is -0.0609
+
+########## Evaluation ##########
+Timestep: 69958 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 70117 Average reward is -0.0486
+
+########## Evaluation ##########
+Timestep: 70272 Average reward is -0.0454
+
+########## Evaluation ##########
+Timestep: 70420 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 70587 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 70741 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 70896 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 71045 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 71193 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 71352 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 71509 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 71666 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 71818 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 71975 Average reward is -0.0644
+
+########## Evaluation ##########
+Timestep: 72127 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 72283 Average reward is -0.0756
+
+########## Evaluation ##########
+Timestep: 72433 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 72589 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 72738 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 72902 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 73040 Average reward is -0.0676
+
+########## Evaluation ##########
+Timestep: 73206 Average reward is -0.0819
+
+########## Evaluation ##########
+Timestep: 73359 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 73501 Average reward is -0.0631
+
+########## Evaluation ##########
+Timestep: 73656 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 73799 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 73960 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 74119 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 74257 Average reward is -0.0621
+
+########## Evaluation ##########
+Timestep: 74419 Average reward is -0.061
+
+########## Evaluation ##########
+Timestep: 74580 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 74725 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 74873 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 75020 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 75181 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 75332 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 75484 Average reward is -0.0681
+
+########## Evaluation ##########
+Timestep: 75641 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 75801 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 75949 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 76114 Average reward is -0.0785
+
+########## Evaluation ##########
+Timestep: 76264 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 76409 Average reward is -0.0531
+
+########## Evaluation ##########
+Timestep: 76560 Average reward is -0.0635
+
+########## Evaluation ##########
+Timestep: 76725 Average reward is -0.0502
+
+########## Evaluation ##########
+Timestep: 76880 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 77034 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 77193 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 77340 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 77491 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 77642 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 77784 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 77941 Average reward is -0.0619
+
+########## Evaluation ##########
+Timestep: 78091 Average reward is -0.0532
+
+########## Evaluation ##########
+Timestep: 78245 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 78396 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 78536 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 78683 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 78834 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 78980 Average reward is -0.0662
+
+########## Evaluation ##########
+Timestep: 79132 Average reward is -0.0511
+
+########## Evaluation ##########
+Timestep: 79285 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 79438 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 79605 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 79767 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 79914 Average reward is -0.0732
+
+########## Evaluation ##########
+Timestep: 80053 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 80221 Average reward is -0.0395
+
+########## Evaluation ##########
+Timestep: 80371 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 80515 Average reward is -0.0555
+
+########## Evaluation ##########
+Timestep: 80670 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 80827 Average reward is -0.0708
+
+########## Evaluation ##########
+Timestep: 80981 Average reward is -0.0555
+
+########## Evaluation ##########
+Timestep: 81121 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 81273 Average reward is -0.053
+
+########## Evaluation ##########
+Timestep: 81428 Average reward is -0.0512
+
+########## Evaluation ##########
+Timestep: 81569 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 81705 Average reward is -0.0794
+
+########## Evaluation ##########
+Timestep: 81859 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 82011 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 82156 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 82333 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 82474 Average reward is -0.0606
+
+########## Evaluation ##########
+Timestep: 82628 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 82779 Average reward is -0.0684
+
+########## Evaluation ##########
+Timestep: 82930 Average reward is -0.0558
+
+########## Evaluation ##########
+Timestep: 83080 Average reward is -0.0823
+
+########## Evaluation ##########
+Timestep: 83226 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 83387 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 83550 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 83715 Average reward is -0.0551
+
+########## Evaluation ##########
+Timestep: 83870 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 84022 Average reward is -0.0655
+
+########## Evaluation ##########
+Timestep: 84166 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 84308 Average reward is -0.0545
+
+########## Evaluation ##########
+Timestep: 84457 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 84612 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 84770 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 84929 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 85085 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 85246 Average reward is -0.057
+
+########## Evaluation ##########
+Timestep: 85407 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 85565 Average reward is -0.0631
+
+########## Evaluation ##########
+Timestep: 85716 Average reward is -0.0709
+
+########## Evaluation ##########
+Timestep: 85868 Average reward is -0.05
+
+########## Evaluation ##########
+Timestep: 86010 Average reward is -0.0674
+
+########## Evaluation ##########
+Timestep: 86162 Average reward is -0.0606
+
+########## Evaluation ##########
+Timestep: 86308 Average reward is -0.0729
+
+########## Evaluation ##########
+Timestep: 86454 Average reward is -0.0484
+
+########## Evaluation ##########
+Timestep: 86611 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 86762 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 86917 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 87085 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 87231 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 87383 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 87521 Average reward is -0.0553
+
+########## Evaluation ##########
+Timestep: 87680 Average reward is -0.0635
+
+########## Evaluation ##########
+Timestep: 87831 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 87982 Average reward is -0.0755
+
+########## Evaluation ##########
+Timestep: 88132 Average reward is -0.0525
+
+########## Evaluation ##########
+Timestep: 88292 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 88437 Average reward is -0.0523
+
+########## Evaluation ##########
+Timestep: 88589 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 88739 Average reward is -0.0542
+
+########## Evaluation ##########
+Timestep: 88886 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 89042 Average reward is -0.0595
+
+########## Evaluation ##########
+Timestep: 89203 Average reward is -0.0589
+
+########## Evaluation ##########
+Timestep: 89359 Average reward is -0.0697
+
+########## Evaluation ##########
+Timestep: 89508 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 89669 Average reward is -0.0612
+
+########## Evaluation ##########
+Timestep: 89827 Average reward is -0.0708
+
+########## Evaluation ##########
+Timestep: 89983 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 90124 Average reward is -0.0719
+
+########## Evaluation ##########
+Timestep: 90269 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 90415 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 90571 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 90724 Average reward is -0.0543
+
+########## Evaluation ##########
+Timestep: 90864 Average reward is -0.0445
+
+########## Evaluation ##########
+Timestep: 91007 Average reward is -0.0712
+
+########## Evaluation ##########
+Timestep: 91147 Average reward is -0.0592
+
+########## Evaluation ##########
+Timestep: 91296 Average reward is -0.0536
+
+########## Evaluation ##########
+Timestep: 91438 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 91584 Average reward is -0.0551
+
+########## Evaluation ##########
+Timestep: 91738 Average reward is -0.0479
+
+########## Evaluation ##########
+Timestep: 91892 Average reward is -0.0732
+
+########## Evaluation ##########
+Timestep: 92052 Average reward is -0.0757
+
+########## Evaluation ##########
+Timestep: 92208 Average reward is -0.0754
+
+########## Evaluation ##########
+Timestep: 92361 Average reward is -0.0732
+
+########## Evaluation ##########
+Timestep: 92517 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 92672 Average reward is -0.0865
+
+########## Evaluation ##########
+Timestep: 92826 Average reward is -0.0594
+
+########## Evaluation ##########
+Timestep: 92969 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 93130 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 93286 Average reward is -0.071
+
+########## Evaluation ##########
+Timestep: 93444 Average reward is -0.0637
+
+########## Evaluation ##########
+Timestep: 93614 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 93773 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 93912 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 94069 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 94220 Average reward is -0.0786
+
+########## Evaluation ##########
+Timestep: 94375 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 94529 Average reward is -0.0793
+
+########## Evaluation ##########
+Timestep: 94678 Average reward is -0.0621
+
+########## Evaluation ##########
+Timestep: 94832 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 94982 Average reward is -0.0655
+
+########## Evaluation ##########
+Timestep: 95131 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 95285 Average reward is -0.0586
+
+########## Evaluation ##########
+Timestep: 95442 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 95594 Average reward is -0.0503
+
+########## Evaluation ##########
+Timestep: 95751 Average reward is -0.0725
+
+########## Evaluation ##########
+Timestep: 95908 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 96067 Average reward is -0.0792
+
+########## Evaluation ##########
+Timestep: 96208 Average reward is -0.0532
+
+########## Evaluation ##########
+Timestep: 96343 Average reward is -0.0599
+
+########## Evaluation ##########
+Timestep: 96494 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 96642 Average reward is -0.0735
+
+########## Evaluation ##########
+Timestep: 96793 Average reward is -0.0739
+
+########## Evaluation ##########
+Timestep: 96942 Average reward is -0.0627
+
+########## Evaluation ##########
+Timestep: 97105 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 97241 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 97389 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 97531 Average reward is -0.0588
+
+########## Evaluation ##########
+Timestep: 97682 Average reward is -0.0787
+
+########## Evaluation ##########
+Timestep: 97845 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 98000 Average reward is -0.0743
+
+########## Evaluation ##########
+Timestep: 98146 Average reward is -0.0812
+
+########## Evaluation ##########
+Timestep: 98297 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 98447 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 98597 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 98737 Average reward is -0.0876
+
+########## Evaluation ##########
+Timestep: 98888 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 99047 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 99195 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 99348 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 99502 Average reward is -0.0537
+
+########## Evaluation ##########
+Timestep: 99663 Average reward is -0.0487
+
+########## Evaluation ##########
+Timestep: 99830 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 99981 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 100128 Average reward is -0.0674
+
+########## Evaluation ##########
+Timestep: 100290 Average reward is -0.0569
+
+########## Evaluation ##########
+Timestep: 100447 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 100595 Average reward is -0.0763
+
+########## Evaluation ##########
+Timestep: 100736 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 100881 Average reward is -0.0776
+
+########## Evaluation ##########
+Timestep: 101036 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 101193 Average reward is -0.0867
+
+########## Evaluation ##########
+Timestep: 101347 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 101506 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 101654 Average reward is -0.0587
+
+########## Evaluation ##########
+Timestep: 101819 Average reward is -0.0511
+
+########## Evaluation ##########
+Timestep: 101969 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 102118 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 102276 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 102430 Average reward is -0.0493
+
+########## Evaluation ##########
+Timestep: 102582 Average reward is -0.0566
+
+########## Evaluation ##########
+Timestep: 102728 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 102875 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 103021 Average reward is -0.0711
+
+########## Evaluation ##########
+Timestep: 103178 Average reward is -0.0582
+
+########## Evaluation ##########
+Timestep: 103332 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 103472 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 103617 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 103770 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 103909 Average reward is -0.0534
+
+########## Evaluation ##########
+Timestep: 104047 Average reward is -0.0716
+
+########## Evaluation ##########
+Timestep: 104192 Average reward is -0.0565
+
+########## Evaluation ##########
+Timestep: 104337 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 104506 Average reward is -0.0729
+
+########## Evaluation ##########
+Timestep: 104654 Average reward is -0.0783
+
+########## Evaluation ##########
+Timestep: 104800 Average reward is -0.0741
+
+########## Evaluation ##########
+Timestep: 104949 Average reward is -0.0584
+
+########## Evaluation ##########
+Timestep: 105111 Average reward is -0.0741
+
+########## Evaluation ##########
+Timestep: 105258 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 105404 Average reward is -0.0747
+
+########## Evaluation ##########
+Timestep: 105564 Average reward is -0.0681
+
+########## Evaluation ##########
+Timestep: 105723 Average reward is -0.0597
+
+########## Evaluation ##########
+Timestep: 105888 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 106042 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 106195 Average reward is -0.0743
+
+########## Evaluation ##########
+Timestep: 106360 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 106512 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 106662 Average reward is -0.093
+
+########## Evaluation ##########
+Timestep: 106829 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 106968 Average reward is -0.0559
+
+########## Evaluation ##########
+Timestep: 107136 Average reward is -0.0618
+
+########## Evaluation ##########
+Timestep: 107305 Average reward is -0.0814
+
+########## Evaluation ##########
+Timestep: 107446 Average reward is -0.0656
+
+########## Evaluation ##########
+Timestep: 107606 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 107750 Average reward is -0.0594
+
+########## Evaluation ##########
+Timestep: 107903 Average reward is -0.0561
+
+########## Evaluation ##########
+Timestep: 108060 Average reward is -0.0676
+
+########## Evaluation ##########
+Timestep: 108211 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 108361 Average reward is -0.0609
+
+########## Evaluation ##########
+Timestep: 108514 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 108673 Average reward is -0.0658
+
+########## Evaluation ##########
+Timestep: 108826 Average reward is -0.0726
+
+########## Evaluation ##########
+Timestep: 108984 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 109137 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 109293 Average reward is -0.0795
+
+########## Evaluation ##########
+Timestep: 109456 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 109614 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 109770 Average reward is -0.0629
+
+########## Evaluation ##########
+Timestep: 109925 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 110074 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 110214 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 110369 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 110520 Average reward is -0.0754
+
+########## Evaluation ##########
+Timestep: 110677 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 110819 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 110968 Average reward is -0.0796
+
+########## Evaluation ##########
+Timestep: 111121 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 111279 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 111432 Average reward is -0.0816
+
+########## Evaluation ##########
+Timestep: 111584 Average reward is -0.0611
+
+########## Evaluation ##########
+Timestep: 111741 Average reward is -0.0555
+
+########## Evaluation ##########
+Timestep: 111901 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 112065 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 112221 Average reward is -0.0536
+
+########## Evaluation ##########
+Timestep: 112365 Average reward is -0.0563
+
+########## Evaluation ##########
+Timestep: 112525 Average reward is -0.0785
+
+########## Evaluation ##########
+Timestep: 112683 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 112834 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 112978 Average reward is -0.0859
+
+########## Evaluation ##########
+Timestep: 113130 Average reward is -0.0681
+
+########## Evaluation ##########
+Timestep: 113276 Average reward is -0.0571
+
+########## Evaluation ##########
+Timestep: 113424 Average reward is -0.0365
+
+########## Evaluation ##########
+Timestep: 113584 Average reward is -0.0585
+
+########## Evaluation ##########
+Timestep: 113734 Average reward is -0.0684
+
+########## Evaluation ##########
+Timestep: 113887 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 114044 Average reward is -0.0536
+
+########## Evaluation ##########
+Timestep: 114196 Average reward is -0.0549
+
+########## Evaluation ##########
+Timestep: 114358 Average reward is -0.0621
+
+########## Evaluation ##########
+Timestep: 114503 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 114658 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 114815 Average reward is -0.0782
+
+########## Evaluation ##########
+Timestep: 114956 Average reward is -0.0805
+
+########## Evaluation ##########
+Timestep: 115114 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 115259 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 115411 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 115561 Average reward is -0.0834
+
+########## Evaluation ##########
+Timestep: 115709 Average reward is -0.0705
+
+########## Evaluation ##########
+Timestep: 115865 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 116010 Average reward is -0.0756
+
+########## Evaluation ##########
+Timestep: 116163 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 116314 Average reward is -0.0849
+
+########## Evaluation ##########
+Timestep: 116468 Average reward is -0.061
+
+########## Evaluation ##########
+Timestep: 116608 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 116757 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 116908 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 117076 Average reward is -0.0669
+
+########## Evaluation ##########
+Timestep: 117233 Average reward is -0.0757
+
+########## Evaluation ##########
+Timestep: 117377 Average reward is -0.0642
+
+########## Evaluation ##########
+Timestep: 117523 Average reward is -0.0606
+
+########## Evaluation ##########
+Timestep: 117673 Average reward is -0.0488
+
+########## Evaluation ##########
+Timestep: 117826 Average reward is -0.0828
+
+########## Evaluation ##########
+Timestep: 117974 Average reward is -0.0778
+
+########## Evaluation ##########
+Timestep: 118121 Average reward is -0.0721
+
+########## Evaluation ##########
+Timestep: 118278 Average reward is -0.0607
+
+########## Evaluation ##########
+Timestep: 118430 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 118580 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 118751 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 118906 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 119062 Average reward is -0.085
+
+########## Evaluation ##########
+Timestep: 119224 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 119371 Average reward is -0.0473
+
+########## Evaluation ##########
+Timestep: 119522 Average reward is -0.0742
+
+########## Evaluation ##########
+Timestep: 119670 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 119833 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 119987 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 120137 Average reward is -0.0611
+
+########## Evaluation ##########
+Timestep: 120302 Average reward is -0.0836
+
+########## Evaluation ##########
+Timestep: 120453 Average reward is -0.0542
+
+########## Evaluation ##########
+Timestep: 120604 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 120755 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 120907 Average reward is -0.0796
+
+########## Evaluation ##########
+Timestep: 121060 Average reward is -0.0927
+
+########## Evaluation ##########
+Timestep: 121209 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 121348 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 121492 Average reward is -0.0762
+
+########## Evaluation ##########
+Timestep: 121642 Average reward is -0.0803
+
+########## Evaluation ##########
+Timestep: 121799 Average reward is -0.0717
+
+########## Evaluation ##########
+Timestep: 121963 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 122110 Average reward is -0.0895
+
+########## Evaluation ##########
+Timestep: 122269 Average reward is -0.0618
+
+########## Evaluation ##########
+Timestep: 122429 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 122577 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 122724 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 122883 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 123041 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 123194 Average reward is -0.0631
+
+########## Evaluation ##########
+Timestep: 123348 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 123497 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 123639 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 123785 Average reward is -0.0537
+
+########## Evaluation ##########
+Timestep: 123933 Average reward is -0.0576
+
+########## Evaluation ##########
+Timestep: 124088 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 124234 Average reward is -0.0589
+
+########## Evaluation ##########
+Timestep: 124379 Average reward is -0.0521
+
+########## Evaluation ##########
+Timestep: 124531 Average reward is -0.0519
+
+########## Evaluation ##########
+Timestep: 124685 Average reward is -0.0607
+
+########## Evaluation ##########
+Timestep: 124838 Average reward is -0.0596
+
+########## Evaluation ##########
+Timestep: 125003 Average reward is -0.0673
+
+########## Evaluation ##########
+Timestep: 125163 Average reward is -0.0635
+
+########## Evaluation ##########
+Timestep: 125305 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 125467 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 125616 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 125766 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 125927 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 126078 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 126235 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 126381 Average reward is -0.0697
+
+########## Evaluation ##########
+Timestep: 126542 Average reward is -0.0756
+
+########## Evaluation ##########
+Timestep: 126691 Average reward is -0.0537
+
+########## Evaluation ##########
+Timestep: 126847 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 127006 Average reward is -0.0784
+
+########## Evaluation ##########
+Timestep: 127150 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 127308 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 127463 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 127625 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 127779 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 127941 Average reward is -0.0527
+
+########## Evaluation ##########
+Timestep: 128087 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 128244 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 128400 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 128541 Average reward is -0.0592
+
+########## Evaluation ##########
+Timestep: 128687 Average reward is -0.0811
+
+########## Evaluation ##########
+Timestep: 128837 Average reward is -0.0854
+
+########## Evaluation ##########
+Timestep: 128985 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 129135 Average reward is -0.078
+
+########## Evaluation ##########
+Timestep: 129296 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 129437 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 129595 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 129748 Average reward is -0.0584
+
+########## Evaluation ##########
+Timestep: 129900 Average reward is -0.0406
+
+########## Evaluation ##########
+Timestep: 130060 Average reward is -0.0786
+
+########## Evaluation ##########
+Timestep: 130203 Average reward is -0.0711
+
+########## Evaluation ##########
+Timestep: 130356 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 130513 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 130653 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 130805 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 130955 Average reward is -0.0726
+
+########## Evaluation ##########
+Timestep: 131092 Average reward is -0.0642
+
+########## Evaluation ##########
+Timestep: 131231 Average reward is -0.0481
+
+########## Evaluation ##########
+Timestep: 131377 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 131512 Average reward is -0.0814
+
+########## Evaluation ##########
+Timestep: 131667 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 131807 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 131945 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 132083 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 132224 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 132369 Average reward is -0.0852
+
+########## Evaluation ##########
+Timestep: 132511 Average reward is -0.0507
+
+########## Evaluation ##########
+Timestep: 132653 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 132800 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 132942 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 133088 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 133229 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 133375 Average reward is -0.0735
+
+########## Evaluation ##########
+Timestep: 133513 Average reward is -0.0825
+
+########## Evaluation ##########
+Timestep: 133651 Average reward is -0.0598
+
+########## Evaluation ##########
+Timestep: 133806 Average reward is -0.091
+
+########## Evaluation ##########
+Timestep: 133946 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 134094 Average reward is -0.0801
+
+########## Evaluation ##########
+Timestep: 134248 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 134386 Average reward is -0.0887
+
+########## Evaluation ##########
+Timestep: 134528 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 134672 Average reward is -0.0608
+
+########## Evaluation ##########
+Timestep: 134800 Average reward is -0.0832
+
+########## Evaluation ##########
+Timestep: 134950 Average reward is -0.0736
+
+########## Evaluation ##########
+Timestep: 135090 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 135226 Average reward is -0.0827
+
+########## Evaluation ##########
+Timestep: 135364 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 135506 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 135654 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 135798 Average reward is -0.0798
+
+########## Evaluation ##########
+Timestep: 135941 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 136076 Average reward is -0.0759
+
+########## Evaluation ##########
+Timestep: 136229 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 136375 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 136530 Average reward is -0.0712
+
+########## Evaluation ##########
+Timestep: 136674 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 136823 Average reward is -0.0679
+
+########## Evaluation ##########
+Timestep: 136979 Average reward is -0.0853
+
+########## Evaluation ##########
+Timestep: 137124 Average reward is -0.0747
+
+########## Evaluation ##########
+Timestep: 137270 Average reward is -0.0763
+
+########## Evaluation ##########
+Timestep: 137410 Average reward is -0.077
+
+########## Evaluation ##########
+Timestep: 137561 Average reward is -0.0857
+
+########## Evaluation ##########
+Timestep: 137696 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 137841 Average reward is -0.083
+
+########## Evaluation ##########
+Timestep: 137978 Average reward is -0.0757
+
+########## Evaluation ##########
+Timestep: 138118 Average reward is -0.081
+
+########## Evaluation ##########
+Timestep: 138266 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 138411 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 138557 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 138710 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 138847 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 138990 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 139139 Average reward is -0.0751
+
+########## Evaluation ##########
+Timestep: 139280 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 139417 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 139561 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 139718 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 139869 Average reward is -0.0743
+
+########## Evaluation ##########
+Timestep: 140013 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 140163 Average reward is -0.0709
+
+########## Evaluation ##########
+Timestep: 140299 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 140439 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 140592 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 140741 Average reward is -0.0737
+
+########## Evaluation ##########
+Timestep: 140890 Average reward is -0.0704
+
+########## Evaluation ##########
+Timestep: 141035 Average reward is -0.074
+
+########## Evaluation ##########
+Timestep: 141189 Average reward is -0.0681
+
+########## Evaluation ##########
+Timestep: 141336 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 141483 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 141637 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 141789 Average reward is -0.0731
+
+########## Evaluation ##########
+Timestep: 141943 Average reward is -0.0492
+
+########## Evaluation ##########
+Timestep: 142097 Average reward is -0.0629
+
+########## Evaluation ##########
+Timestep: 142240 Average reward is -0.0819
+
+########## Evaluation ##########
+Timestep: 142388 Average reward is -0.0481
+
+########## Evaluation ##########
+Timestep: 142535 Average reward is -0.0623
+
+########## Evaluation ##########
+Timestep: 142681 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 142831 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 142975 Average reward is -0.0579
+
+########## Evaluation ##########
+Timestep: 143127 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 143269 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 143417 Average reward is -0.0554
+
+########## Evaluation ##########
+Timestep: 143564 Average reward is -0.0587
+
+########## Evaluation ##########
+Timestep: 143714 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 143864 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 144010 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 144159 Average reward is -0.0439
+
+########## Evaluation ##########
+Timestep: 144307 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 144447 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 144598 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 144751 Average reward is -0.0537
+
+########## Evaluation ##########
+Timestep: 144893 Average reward is -0.0441
+
+########## Evaluation ##########
+Timestep: 145041 Average reward is -0.0539
+
+########## Evaluation ##########
+Timestep: 145202 Average reward is -0.0598
+
+########## Evaluation ##########
+Timestep: 145340 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 145482 Average reward is -0.0566
+
+########## Evaluation ##########
+Timestep: 145623 Average reward is -0.0722
+
+########## Evaluation ##########
+Timestep: 145765 Average reward is -0.0379
+
+########## Evaluation ##########
+Timestep: 145912 Average reward is -0.05
+
+########## Evaluation ##########
+Timestep: 146064 Average reward is -0.0461
+
+########## Evaluation ##########
+Timestep: 146217 Average reward is -0.0553
+
+########## Evaluation ##########
+Timestep: 146355 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 146506 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 146664 Average reward is -0.0717
+
+########## Evaluation ##########
+Timestep: 146811 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 146960 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 147109 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 147251 Average reward is -0.0725
+
+########## Evaluation ##########
+Timestep: 147400 Average reward is -0.0708
+
+########## Evaluation ##########
+Timestep: 147543 Average reward is -0.0711
+
+########## Evaluation ##########
+Timestep: 147689 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 147837 Average reward is -0.0716
+
+########## Evaluation ##########
+Timestep: 147979 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 148140 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 148295 Average reward is -0.0539
+
+########## Evaluation ##########
+Timestep: 148444 Average reward is -0.0673
+
+########## Evaluation ##########
+Timestep: 148589 Average reward is -0.0632
+
+########## Evaluation ##########
+Timestep: 148725 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 148866 Average reward is -0.0481
+
+########## Evaluation ##########
+Timestep: 149013 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 149159 Average reward is -0.0637
+
+########## Evaluation ##########
+Timestep: 149314 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 149459 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 149607 Average reward is -0.0534
+
+########## Evaluation ##########
+Timestep: 149752 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 149894 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 150039 Average reward is -0.0545
+
+########## Evaluation ##########
+Timestep: 150181 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 150331 Average reward is -0.0526
+
+########## Evaluation ##########
+Timestep: 150475 Average reward is -0.0814
+
+########## Evaluation ##########
+Timestep: 150614 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 150764 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 150908 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 151058 Average reward is -0.0576
+
+########## Evaluation ##########
+Timestep: 151207 Average reward is -0.0686
+
+########## Evaluation ##########
+Timestep: 151356 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 151498 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 151638 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 151796 Average reward is -0.0815
+
+########## Evaluation ##########
+Timestep: 151941 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 152096 Average reward is -0.035
+
+########## Evaluation ##########
+Timestep: 152240 Average reward is -0.0677
+
+########## Evaluation ##########
+Timestep: 152386 Average reward is -0.0526
+
+########## Evaluation ##########
+Timestep: 152540 Average reward is -0.0514
+
+########## Evaluation ##########
+Timestep: 152688 Average reward is -0.0509
+
+########## Evaluation ##########
+Timestep: 152838 Average reward is -0.0813
+
+########## Evaluation ##########
+Timestep: 152979 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 153125 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 153275 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 153422 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 153576 Average reward is -0.0462
+
+########## Evaluation ##########
+Timestep: 153721 Average reward is -0.0792
+
+########## Evaluation ##########
+Timestep: 153871 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 154025 Average reward is -0.0515
+
+########## Evaluation ##########
+Timestep: 154172 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 154325 Average reward is -0.0531
+
+########## Evaluation ##########
+Timestep: 154475 Average reward is -0.0672
+
+########## Evaluation ##########
+Timestep: 154625 Average reward is -0.0519
+
+########## Evaluation ##########
+Timestep: 154775 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 154917 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 155057 Average reward is -0.061
+
+########## Evaluation ##########
+Timestep: 155202 Average reward is -0.0454
+
+########## Evaluation ##########
+Timestep: 155353 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 155493 Average reward is -0.0676
+
+########## Evaluation ##########
+Timestep: 155641 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 155781 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 155918 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 156056 Average reward is -0.0381
+
+########## Evaluation ##########
+Timestep: 156203 Average reward is -0.0631
+
+########## Evaluation ##########
+Timestep: 156364 Average reward is -0.0463
+
+########## Evaluation ##########
+Timestep: 156516 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 156669 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 156813 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 156964 Average reward is -0.0722
+
+########## Evaluation ##########
+Timestep: 157118 Average reward is -0.0503
+
+########## Evaluation ##########
+Timestep: 157269 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 157425 Average reward is -0.0524
+
+########## Evaluation ##########
+Timestep: 157575 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 157725 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 157872 Average reward is -0.0719
+
+########## Evaluation ##########
+Timestep: 158009 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 158155 Average reward is -0.0569
+
+########## Evaluation ##########
+Timestep: 158297 Average reward is -0.0434
+
+########## Evaluation ##########
+Timestep: 158435 Average reward is -0.0444
+
+########## Evaluation ##########
+Timestep: 158586 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 158745 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 158899 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 159047 Average reward is -0.0644
+
+########## Evaluation ##########
+Timestep: 159198 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 159328 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 159467 Average reward is -0.0716
+
+########## Evaluation ##########
+Timestep: 159618 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 159758 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 159911 Average reward is -0.0493
+
+########## Evaluation ##########
+Timestep: 160048 Average reward is -0.0639
+
+########## Evaluation ##########
+Timestep: 160196 Average reward is -0.0699
+
+########## Evaluation ##########
+Timestep: 160337 Average reward is -0.0748
+
+########## Evaluation ##########
+Timestep: 160493 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 160626 Average reward is -0.0861
+
+########## Evaluation ##########
+Timestep: 160772 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 160904 Average reward is -0.083
+
+########## Evaluation ##########
+Timestep: 161045 Average reward is -0.0742
+
+########## Evaluation ##########
+Timestep: 161189 Average reward is -0.0712
+
+########## Evaluation ##########
+Timestep: 161327 Average reward is -0.0828
+
+########## Evaluation ##########
+Timestep: 161465 Average reward is -0.0547
+
+########## Evaluation ##########
+Timestep: 161613 Average reward is -0.0811
+
+########## Evaluation ##########
+Timestep: 161758 Average reward is -0.0794
+
+########## Evaluation ##########
+Timestep: 161896 Average reward is -0.0769
+
+########## Evaluation ##########
+Timestep: 162048 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 162191 Average reward is -0.0561
+
+########## Evaluation ##########
+Timestep: 162334 Average reward is -0.0709
+
+########## Evaluation ##########
+Timestep: 162471 Average reward is -0.0755
+
+########## Evaluation ##########
+Timestep: 162614 Average reward is -0.0752
+
+########## Evaluation ##########
+Timestep: 162780 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 162931 Average reward is -0.0609
+
+########## Evaluation ##########
+Timestep: 163078 Average reward is -0.0441
+
+########## Evaluation ##########
+Timestep: 163209 Average reward is -0.0592
+
+########## Evaluation ##########
+Timestep: 163351 Average reward is -0.0425
+
+########## Evaluation ##########
+Timestep: 163493 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 163627 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 163764 Average reward is -0.0607
+
+########## Evaluation ##########
+Timestep: 163902 Average reward is -0.0489
+
+########## Evaluation ##########
+Timestep: 164048 Average reward is -0.0744
+
+########## Evaluation ##########
+Timestep: 164188 Average reward is -0.0751
+
+########## Evaluation ##########
+Timestep: 164315 Average reward is -0.0802
+
+########## Evaluation ##########
+Timestep: 164460 Average reward is -0.0765
+
+########## Evaluation ##########
+Timestep: 164606 Average reward is -0.0738
+
+########## Evaluation ##########
+Timestep: 164749 Average reward is -0.0786
+
+########## Evaluation ##########
+Timestep: 164880 Average reward is -0.0781
+
+########## Evaluation ##########
+Timestep: 165020 Average reward is -0.0777
+
+########## Evaluation ##########
+Timestep: 165155 Average reward is -0.0669
+
+########## Evaluation ##########
+Timestep: 165290 Average reward is -0.0785
+
+########## Evaluation ##########
+Timestep: 165437 Average reward is -0.0741
+
+########## Evaluation ##########
+Timestep: 165584 Average reward is -0.0608
+
+########## Evaluation ##########
+Timestep: 165732 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 165878 Average reward is -0.0547
+
+########## Evaluation ##########
+Timestep: 166019 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 166160 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 166296 Average reward is -0.0644
+
+########## Evaluation ##########
+Timestep: 166434 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 166575 Average reward is -0.0612
+
+########## Evaluation ##########
+Timestep: 166727 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 166873 Average reward is -0.0878
+
+########## Evaluation ##########
+Timestep: 167020 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 167170 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 167318 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 167460 Average reward is -0.067
+
+########## Evaluation ##########
+Timestep: 167606 Average reward is -0.0725
+
+########## Evaluation ##########
+Timestep: 167758 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 167916 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 168059 Average reward is -0.0639
+
+########## Evaluation ##########
+Timestep: 168201 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 168344 Average reward is -0.0718
+
+########## Evaluation ##########
+Timestep: 168487 Average reward is -0.0679
+
+########## Evaluation ##########
+Timestep: 168629 Average reward is -0.0662
+
+########## Evaluation ##########
+Timestep: 168779 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 168918 Average reward is -0.0612
+
+########## Evaluation ##########
+Timestep: 169061 Average reward is -0.0688
+
+########## Evaluation ##########
+Timestep: 169212 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 169350 Average reward is -0.0549
+
+########## Evaluation ##########
+Timestep: 169487 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 169624 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 169773 Average reward is -0.0695
+
+########## Evaluation ##########
+Timestep: 169924 Average reward is -0.0595
+
+########## Evaluation ##########
+Timestep: 170069 Average reward is -0.0679
+
+########## Evaluation ##########
+Timestep: 170224 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 170371 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 170515 Average reward is -0.0496
+
+########## Evaluation ##########
+Timestep: 170667 Average reward is -0.0673
+
+########## Evaluation ##########
+Timestep: 170807 Average reward is -0.0588
+
+########## Evaluation ##########
+Timestep: 170946 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 171101 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 171255 Average reward is -0.0545
+
+########## Evaluation ##########
+Timestep: 171394 Average reward is -0.0539
+
+########## Evaluation ##########
+Timestep: 171561 Average reward is -0.0562
+
+########## Evaluation ##########
+Timestep: 171714 Average reward is -0.0644
+
+########## Evaluation ##########
+Timestep: 171856 Average reward is -0.0651
+
+########## Evaluation ##########
+Timestep: 172004 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 172155 Average reward is -0.0489
+
+########## Evaluation ##########
+Timestep: 172296 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 172448 Average reward is -0.0673
+
+########## Evaluation ##########
+Timestep: 172593 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 172748 Average reward is -0.0422
+
+########## Evaluation ##########
+Timestep: 172889 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 173033 Average reward is -0.0538
+
+########## Evaluation ##########
+Timestep: 173181 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 173342 Average reward is -0.0734
+
+########## Evaluation ##########
+Timestep: 173481 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 173633 Average reward is -0.0455
+
+########## Evaluation ##########
+Timestep: 173787 Average reward is -0.0618
+
+########## Evaluation ##########
+Timestep: 173933 Average reward is -0.0722
+
+########## Evaluation ##########
+Timestep: 174087 Average reward is -0.0695
+
+########## Evaluation ##########
+Timestep: 174229 Average reward is -0.0738
+
+########## Evaluation ##########
+Timestep: 174363 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 174499 Average reward is -0.0487
+
+########## Evaluation ##########
+Timestep: 174660 Average reward is -0.0711
+
+########## Evaluation ##########
+Timestep: 174803 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 174944 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 175103 Average reward is -0.0717
+
+########## Evaluation ##########
+Timestep: 175254 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 175421 Average reward is -0.0473
+
+########## Evaluation ##########
+Timestep: 175586 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 175743 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 175909 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 176062 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 176209 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 176361 Average reward is -0.08
+
+########## Evaluation ##########
+Timestep: 176517 Average reward is -0.0469
+
+########## Evaluation ##########
+Timestep: 176660 Average reward is -0.0467
+
+########## Evaluation ##########
+Timestep: 176813 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 176953 Average reward is -0.0622
+
+########## Evaluation ##########
+Timestep: 177094 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 177248 Average reward is -0.0361
+
+########## Evaluation ##########
+Timestep: 177394 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 177546 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 177695 Average reward is -0.0649
+
+########## Evaluation ##########
+Timestep: 177846 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 178004 Average reward is -0.0846
+
+########## Evaluation ##########
+Timestep: 178144 Average reward is -0.0546
+
+########## Evaluation ##########
+Timestep: 178289 Average reward is -0.0566
+
+########## Evaluation ##########
+Timestep: 178429 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 178593 Average reward is -0.0815
+
+########## Evaluation ##########
+Timestep: 178731 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 178882 Average reward is -0.0549
+
+########## Evaluation ##########
+Timestep: 179023 Average reward is -0.0543
+
+########## Evaluation ##########
+Timestep: 179181 Average reward is -0.0619
+
+########## Evaluation ##########
+Timestep: 179337 Average reward is -0.0786
+
+########## Evaluation ##########
+Timestep: 179488 Average reward is -0.0579
+
+########## Evaluation ##########
+Timestep: 179645 Average reward is -0.072
+
+########## Evaluation ##########
+Timestep: 179798 Average reward is -0.0509
+
+########## Evaluation ##########
+Timestep: 179955 Average reward is -0.077
+
+########## Evaluation ##########
+Timestep: 180099 Average reward is -0.0545
+
+########## Evaluation ##########
+Timestep: 180231 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 180373 Average reward is -0.07
+
+########## Evaluation ##########
+Timestep: 180533 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 180679 Average reward is -0.0579
+
+########## Evaluation ##########
+Timestep: 180831 Average reward is -0.05
+
+########## Evaluation ##########
+Timestep: 180988 Average reward is -0.0559
+
+########## Evaluation ##########
+Timestep: 181132 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 181287 Average reward is -0.0607
+
+########## Evaluation ##########
+Timestep: 181442 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 181606 Average reward is -0.0557
+
+########## Evaluation ##########
+Timestep: 181748 Average reward is -0.043
+
+########## Evaluation ##########
+Timestep: 181899 Average reward is -0.0538
+
+########## Evaluation ##########
+Timestep: 182052 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 182202 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 182355 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 182504 Average reward is -0.0688
+
+########## Evaluation ##########
+Timestep: 182651 Average reward is -0.0543
+
+########## Evaluation ##########
+Timestep: 182803 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 182955 Average reward is -0.0758
+
+########## Evaluation ##########
+Timestep: 183107 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 183268 Average reward is -0.0386
+
+########## Evaluation ##########
+Timestep: 183415 Average reward is -0.0649
+
+########## Evaluation ##########
+Timestep: 183577 Average reward is -0.0832
+
+########## Evaluation ##########
+Timestep: 183722 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 183880 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 184036 Average reward is -0.0724
+
+########## Evaluation ##########
+Timestep: 184191 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 184343 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 184505 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 184663 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 184823 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 184980 Average reward is -0.0523
+
+########## Evaluation ##########
+Timestep: 185123 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 185272 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 185418 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 185558 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 185709 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 185852 Average reward is -0.0756
+
+########## Evaluation ##########
+Timestep: 186004 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 186154 Average reward is -0.0575
+
+########## Evaluation ##########
+Timestep: 186302 Average reward is -0.0395
+
+########## Evaluation ##########
+Timestep: 186439 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 186591 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 186741 Average reward is -0.0607
+
+########## Evaluation ##########
+Timestep: 186900 Average reward is -0.0434
+
+########## Evaluation ##########
+Timestep: 187052 Average reward is -0.0674
+
+########## Evaluation ##########
+Timestep: 187194 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 187343 Average reward is -0.058
+
+########## Evaluation ##########
+Timestep: 187487 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 187627 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 187766 Average reward is -0.0733
+
+########## Evaluation ##########
+Timestep: 187914 Average reward is -0.0561
+
+########## Evaluation ##########
+Timestep: 188060 Average reward is -0.0502
+
+########## Evaluation ##########
+Timestep: 188212 Average reward is -0.0608
+
+########## Evaluation ##########
+Timestep: 188360 Average reward is -0.0557
+
+########## Evaluation ##########
+Timestep: 188499 Average reward is -0.0782
+
+########## Evaluation ##########
+Timestep: 188659 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 188792 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 188938 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 189080 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 189223 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 189388 Average reward is -0.0495
+
+########## Evaluation ##########
+Timestep: 189536 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 189695 Average reward is -0.0565
+
+########## Evaluation ##########
+Timestep: 189854 Average reward is -0.0495
+
+########## Evaluation ##########
+Timestep: 190009 Average reward is -0.0849
+
+########## Evaluation ##########
+Timestep: 190162 Average reward is -0.0598
+
+########## Evaluation ##########
+Timestep: 190308 Average reward is -0.0683
+
+########## Evaluation ##########
+Timestep: 190462 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 190611 Average reward is -0.0627
+
+########## Evaluation ##########
+Timestep: 190750 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 190892 Average reward is -0.052
+
+########## Evaluation ##########
+Timestep: 191052 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 191197 Average reward is -0.0506
+
+########## Evaluation ##########
+Timestep: 191351 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 191501 Average reward is -0.0761
+
+########## Evaluation ##########
+Timestep: 191644 Average reward is -0.0447
+
+########## Evaluation ##########
+Timestep: 191785 Average reward is -0.0515
+
+########## Evaluation ##########
+Timestep: 191929 Average reward is -0.058
+
+########## Evaluation ##########
+Timestep: 192066 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 192222 Average reward is -0.0409
+
+########## Evaluation ##########
+Timestep: 192359 Average reward is -0.0417
+
+########## Evaluation ##########
+Timestep: 192508 Average reward is -0.0457
+
+########## Evaluation ##########
+Timestep: 192654 Average reward is -0.0481
+
+########## Evaluation ##########
+Timestep: 192800 Average reward is -0.0409
+
+########## Evaluation ##########
+Timestep: 192946 Average reward is -0.052
+
+########## Evaluation ##########
+Timestep: 193092 Average reward is -0.0499
+
+########## Evaluation ##########
+Timestep: 193239 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 193385 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 193533 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 193677 Average reward is -0.0812
+
+########## Evaluation ##########
+Timestep: 193826 Average reward is -0.0569
+
+########## Evaluation ##########
+Timestep: 193975 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 194116 Average reward is -0.0353
+
+########## Evaluation ##########
+Timestep: 194273 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 194418 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 194588 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 194724 Average reward is -0.0594
+
+########## Evaluation ##########
+Timestep: 194875 Average reward is -0.0453
+
+########## Evaluation ##########
+Timestep: 195009 Average reward is -0.0699
+
+########## Evaluation ##########
+Timestep: 195160 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 195309 Average reward is -0.0656
+
+########## Evaluation ##########
+Timestep: 195448 Average reward is -0.057
+
+########## Evaluation ##########
+Timestep: 195603 Average reward is -0.0543
+
+########## Evaluation ##########
+Timestep: 195744 Average reward is -0.0521
+
+########## Evaluation ##########
+Timestep: 195894 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 196046 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 196195 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 196330 Average reward is -0.0432
+
+########## Evaluation ##########
+Timestep: 196480 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 196630 Average reward is -0.0516
+
+########## Evaluation ##########
+Timestep: 196771 Average reward is -0.0519
+
+########## Evaluation ##########
+Timestep: 196914 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 197057 Average reward is -0.0501
+
+########## Evaluation ##########
+Timestep: 197206 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 197367 Average reward is -0.0473
+
+########## Evaluation ##########
+Timestep: 197511 Average reward is -0.0534
+
+########## Evaluation ##########
+Timestep: 197669 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 197811 Average reward is -0.0507
+
+########## Evaluation ##########
+Timestep: 197967 Average reward is -0.0762
+
+########## Evaluation ##########
+Timestep: 198111 Average reward is -0.0472
+
+########## Evaluation ##########
+Timestep: 198246 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 198385 Average reward is -0.0522
+
+########## Evaluation ##########
+Timestep: 198537 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 198694 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 198846 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 198984 Average reward is -0.0497
+
+########## Evaluation ##########
+Timestep: 199133 Average reward is -0.0502
+
+########## Evaluation ##########
+Timestep: 199290 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 199444 Average reward is -0.0444
+
+########## Evaluation ##########
+Timestep: 199587 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 199730 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 199869 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 200022 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 200180 Average reward is -0.0534
+
+########## Evaluation ##########
+Timestep: 200328 Average reward is -0.0744
+
+########## Evaluation ##########
+Timestep: 200473 Average reward is -0.0489
+
+########## Evaluation ##########
+Timestep: 200620 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 200757 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 200905 Average reward is -0.0701
+
+########## Evaluation ##########
+Timestep: 201037 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 201181 Average reward is -0.0573
+
+########## Evaluation ##########
+Timestep: 201330 Average reward is -0.0479
+
+########## Evaluation ##########
+Timestep: 201472 Average reward is -0.0699
+
+########## Evaluation ##########
+Timestep: 201614 Average reward is -0.0692
+
+########## Evaluation ##########
+Timestep: 201761 Average reward is -0.0799
+
+########## Evaluation ##########
+Timestep: 201911 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 202060 Average reward is -0.0702
+
+########## Evaluation ##########
+Timestep: 202205 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 202351 Average reward is -0.061
+
+########## Evaluation ##########
+Timestep: 202500 Average reward is -0.0515
+
+########## Evaluation ##########
+Timestep: 202653 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 202809 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 202949 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 203094 Average reward is -0.0512
+
+########## Evaluation ##########
+Timestep: 203239 Average reward is -0.0498
+
+########## Evaluation ##########
+Timestep: 203386 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 203536 Average reward is -0.0552
+
+########## Evaluation ##########
+Timestep: 203677 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 203827 Average reward is -0.0536
+
+########## Evaluation ##########
+Timestep: 203975 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 204117 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 204259 Average reward is -0.0462
+
+########## Evaluation ##########
+Timestep: 204411 Average reward is -0.0526
+
+########## Evaluation ##########
+Timestep: 204577 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 204717 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 204869 Average reward is -0.0613
+
+########## Evaluation ##########
+Timestep: 205020 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 205164 Average reward is -0.0386
+
+########## Evaluation ##########
+Timestep: 205306 Average reward is -0.0441
+
+########## Evaluation ##########
+Timestep: 205458 Average reward is -0.061
+
+########## Evaluation ##########
+Timestep: 205611 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 205755 Average reward is -0.0585
+
+########## Evaluation ##########
+Timestep: 205902 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 206058 Average reward is -0.0386
+
+########## Evaluation ##########
+Timestep: 206207 Average reward is -0.0507
+
+########## Evaluation ##########
+Timestep: 206369 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 206516 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 206661 Average reward is -0.0516
+
+########## Evaluation ##########
+Timestep: 206813 Average reward is -0.0495
+
+########## Evaluation ##########
+Timestep: 206951 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 207103 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 207245 Average reward is -0.0457
+
+########## Evaluation ##########
+Timestep: 207393 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 207532 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 207670 Average reward is -0.0441
+
+########## Evaluation ##########
+Timestep: 207828 Average reward is -0.0777
+
+########## Evaluation ##########
+Timestep: 207969 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 208115 Average reward is -0.0515
+
+########## Evaluation ##########
+Timestep: 208263 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 208409 Average reward is -0.0392
+
+########## Evaluation ##########
+Timestep: 208552 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 208704 Average reward is -0.0684
+
+########## Evaluation ##########
+Timestep: 208844 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 208992 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 209137 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 209283 Average reward is -0.047
+
+########## Evaluation ##########
+Timestep: 209433 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 209576 Average reward is -0.0621
+
+########## Evaluation ##########
+Timestep: 209721 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 209886 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 210032 Average reward is -0.0503
+
+########## Evaluation ##########
+Timestep: 210186 Average reward is -0.0496
+
+########## Evaluation ##########
+Timestep: 210340 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 210485 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 210650 Average reward is -0.0525
+
+########## Evaluation ##########
+Timestep: 210794 Average reward is -0.0595
+
+########## Evaluation ##########
+Timestep: 210943 Average reward is -0.0669
+
+########## Evaluation ##########
+Timestep: 211091 Average reward is -0.0584
+
+########## Evaluation ##########
+Timestep: 211233 Average reward is -0.0795
+
+########## Evaluation ##########
+Timestep: 211378 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 211528 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 211675 Average reward is -0.0527
+
+########## Evaluation ##########
+Timestep: 211832 Average reward is -0.0454
+
+########## Evaluation ##########
+Timestep: 211982 Average reward is -0.0535
+
+########## Evaluation ##########
+Timestep: 212127 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 212284 Average reward is -0.0728
+
+########## Evaluation ##########
+Timestep: 212435 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 212585 Average reward is -0.044
+
+########## Evaluation ##########
+Timestep: 212738 Average reward is -0.0442
+
+########## Evaluation ##########
+Timestep: 212889 Average reward is -0.0468
+
+########## Evaluation ##########
+Timestep: 213032 Average reward is -0.0422
+
+########## Evaluation ##########
+Timestep: 213190 Average reward is -0.0716
+
+########## Evaluation ##########
+Timestep: 213342 Average reward is -0.0538
+
+########## Evaluation ##########
+Timestep: 213491 Average reward is -0.0629
+
+########## Evaluation ##########
+Timestep: 213634 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 213776 Average reward is -0.068
+
+########## Evaluation ##########
+Timestep: 213930 Average reward is -0.0494
+
+########## Evaluation ##########
+Timestep: 214069 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 214202 Average reward is -0.0615
+
+########## Evaluation ##########
+Timestep: 214349 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 214492 Average reward is -0.0647
+
+########## Evaluation ##########
+Timestep: 214622 Average reward is -0.0737
+
+########## Evaluation ##########
+Timestep: 214760 Average reward is -0.0667
+
+########## Evaluation ##########
+Timestep: 214912 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 215049 Average reward is -0.0502
+
+########## Evaluation ##########
+Timestep: 215192 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 215345 Average reward is -0.0442
+
+########## Evaluation ##########
+Timestep: 215486 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 215625 Average reward is -0.0654
+
+########## Evaluation ##########
+Timestep: 215769 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 215911 Average reward is -0.0784
+
+########## Evaluation ##########
+Timestep: 216066 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 216213 Average reward is -0.0488
+
+########## Evaluation ##########
+Timestep: 216361 Average reward is -0.0449
+
+########## Evaluation ##########
+Timestep: 216510 Average reward is -0.0496
+
+########## Evaluation ##########
+Timestep: 216654 Average reward is -0.0451
+
+########## Evaluation ##########
+Timestep: 216799 Average reward is -0.082
+
+########## Evaluation ##########
+Timestep: 216945 Average reward is -0.0497
+
+########## Evaluation ##########
+Timestep: 217106 Average reward is -0.0614
+
+########## Evaluation ##########
+Timestep: 217247 Average reward is -0.0854
+
+########## Evaluation ##########
+Timestep: 217397 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 217543 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 217686 Average reward is -0.0588
+
+########## Evaluation ##########
+Timestep: 217833 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 217972 Average reward is -0.0464
+
+########## Evaluation ##########
+Timestep: 218128 Average reward is -0.0746
+
+########## Evaluation ##########
+Timestep: 218284 Average reward is -0.0652
+
+########## Evaluation ##########
+Timestep: 218429 Average reward is -0.0501
+
+########## Evaluation ##########
+Timestep: 218572 Average reward is -0.0484
+
+########## Evaluation ##########
+Timestep: 218723 Average reward is -0.0627
+
+########## Evaluation ##########
+Timestep: 218868 Average reward is -0.0601
+
+########## Evaluation ##########
+Timestep: 219015 Average reward is -0.0548
+
+########## Evaluation ##########
+Timestep: 219161 Average reward is -0.0558
+
+########## Evaluation ##########
+Timestep: 219300 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 219454 Average reward is -0.0574
+
+########## Evaluation ##########
+Timestep: 219613 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 219756 Average reward is -0.0435
+
+########## Evaluation ##########
+Timestep: 219910 Average reward is -0.0532
+
+########## Evaluation ##########
+Timestep: 220054 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 220210 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 220359 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 220502 Average reward is -0.0451
+
+########## Evaluation ##########
+Timestep: 220646 Average reward is -0.0457
+
+########## Evaluation ##########
+Timestep: 220796 Average reward is -0.0695
+
+########## Evaluation ##########
+Timestep: 220948 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 221096 Average reward is -0.0662
+
+########## Evaluation ##########
+Timestep: 221242 Average reward is -0.0491
+
+########## Evaluation ##########
+Timestep: 221399 Average reward is -0.0449
+
+########## Evaluation ##########
+Timestep: 221553 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 221710 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 221852 Average reward is -0.0527
+
+########## Evaluation ##########
+Timestep: 222005 Average reward is -0.0606
+
+########## Evaluation ##########
+Timestep: 222148 Average reward is -0.0593
+
+########## Evaluation ##########
+Timestep: 222294 Average reward is -0.0626
+
+########## Evaluation ##########
+Timestep: 222453 Average reward is -0.0556
+
+########## Evaluation ##########
+Timestep: 222616 Average reward is -0.0323
+
+########## Evaluation ##########
+Timestep: 222756 Average reward is -0.0623
+
+########## Evaluation ##########
+Timestep: 222912 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 223066 Average reward is -0.0717
+
+########## Evaluation ##########
+Timestep: 223220 Average reward is -0.059
+
+########## Evaluation ##########
+Timestep: 223363 Average reward is -0.0609
+
+########## Evaluation ##########
+Timestep: 223515 Average reward is -0.0384
+
+########## Evaluation ##########
+Timestep: 223654 Average reward is -0.0507
+
+########## Evaluation ##########
+Timestep: 223795 Average reward is -0.0562
+
+########## Evaluation ##########
+Timestep: 223943 Average reward is -0.0506
+
+########## Evaluation ##########
+Timestep: 224096 Average reward is -0.0522
+
+########## Evaluation ##########
+Timestep: 224249 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 224401 Average reward is -0.0686
+
+########## Evaluation ##########
+Timestep: 224543 Average reward is -0.0751
+
+########## Evaluation ##########
+Timestep: 224694 Average reward is -0.0582
+
+########## Evaluation ##########
+Timestep: 224836 Average reward is -0.071
+
+########## Evaluation ##########
+Timestep: 224973 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 225110 Average reward is -0.0557
+
+########## Evaluation ##########
+Timestep: 225258 Average reward is -0.0536
+
+########## Evaluation ##########
+Timestep: 225404 Average reward is -0.0522
+
+########## Evaluation ##########
+Timestep: 225560 Average reward is -0.0583
+
+########## Evaluation ##########
+Timestep: 225707 Average reward is -0.0645
+
+########## Evaluation ##########
+Timestep: 225847 Average reward is -0.0528
+
+########## Evaluation ##########
+Timestep: 226002 Average reward is -0.0647
+
+########## Evaluation ##########
+Timestep: 226149 Average reward is -0.0474
+
+########## Evaluation ##########
+Timestep: 226305 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 226451 Average reward is -0.042
+
+########## Evaluation ##########
+Timestep: 226604 Average reward is -0.0524
+
+########## Evaluation ##########
+Timestep: 226760 Average reward is -0.0581
+
+########## Evaluation ##########
+Timestep: 226910 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 227062 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 227211 Average reward is -0.0688
+
+########## Evaluation ##########
+Timestep: 227368 Average reward is -0.0398
+
+########## Evaluation ##########
+Timestep: 227506 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 227653 Average reward is -0.0493
+
+########## Evaluation ##########
+Timestep: 227792 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 227935 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 228070 Average reward is -0.0674
+
+########## Evaluation ##########
+Timestep: 228224 Average reward is -0.0523
+
+########## Evaluation ##########
+Timestep: 228380 Average reward is -0.0533
+
+########## Evaluation ##########
+Timestep: 228529 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 228670 Average reward is -0.0582
+
+########## Evaluation ##########
+Timestep: 228825 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 228984 Average reward is -0.048
+
+########## Evaluation ##########
+Timestep: 229135 Average reward is -0.0545
+
+########## Evaluation ##########
+Timestep: 229284 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 229436 Average reward is -0.0558
+
+########## Evaluation ##########
+Timestep: 229596 Average reward is -0.065
+
+########## Evaluation ##########
+Timestep: 229750 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 229898 Average reward is -0.0475
+
+########## Evaluation ##########
+Timestep: 230053 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 230189 Average reward is -0.0608
+
+########## Evaluation ##########
+Timestep: 230325 Average reward is -0.0514
+
+########## Evaluation ##########
+Timestep: 230482 Average reward is -0.0694
+
+########## Evaluation ##########
+Timestep: 230638 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 230790 Average reward is -0.0551
+
+########## Evaluation ##########
+Timestep: 230940 Average reward is -0.0445
+
+########## Evaluation ##########
+Timestep: 231084 Average reward is -0.0671
+
+########## Evaluation ##########
+Timestep: 231235 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 231377 Average reward is -0.0479
+
+########## Evaluation ##########
+Timestep: 231527 Average reward is -0.0602
+
+########## Evaluation ##########
+Timestep: 231672 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 231810 Average reward is -0.058
+
+########## Evaluation ##########
+Timestep: 231959 Average reward is -0.0425
+
+########## Evaluation ##########
+Timestep: 232115 Average reward is -0.0519
+
+########## Evaluation ##########
+Timestep: 232269 Average reward is -0.0542
+
+########## Evaluation ##########
+Timestep: 232415 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 232561 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 232704 Average reward is -0.0552
+
+########## Evaluation ##########
+Timestep: 232860 Average reward is -0.063
+
+########## Evaluation ##########
+Timestep: 233008 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 233155 Average reward is -0.0558
+
+########## Evaluation ##########
+Timestep: 233300 Average reward is -0.0742
+
+########## Evaluation ##########
+Timestep: 233444 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 233596 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 233741 Average reward is -0.0597
+
+########## Evaluation ##########
+Timestep: 233881 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 234041 Average reward is -0.055
+
+########## Evaluation ##########
+Timestep: 234191 Average reward is -0.0705
+
+########## Evaluation ##########
+Timestep: 234344 Average reward is -0.0563
+
+########## Evaluation ##########
+Timestep: 234493 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 234649 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 234791 Average reward is -0.075
+
+########## Evaluation ##########
+Timestep: 234940 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 235080 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 235227 Average reward is -0.0491
+
+########## Evaluation ##########
+Timestep: 235379 Average reward is -0.0591
+
+########## Evaluation ##########
+Timestep: 235526 Average reward is -0.0731
+
+########## Evaluation ##########
+Timestep: 235667 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 235803 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 235949 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 236101 Average reward is -0.0634
+
+########## Evaluation ##########
+Timestep: 236248 Average reward is -0.0668
+
+########## Evaluation ##########
+Timestep: 236390 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 236537 Average reward is -0.0747
+
+########## Evaluation ##########
+Timestep: 236699 Average reward is -0.0445
+
+########## Evaluation ##########
+Timestep: 236851 Average reward is -0.0551
+
+########## Evaluation ##########
+Timestep: 237000 Average reward is -0.0778
+
+########## Evaluation ##########
+Timestep: 237141 Average reward is -0.0441
+
+########## Evaluation ##########
+Timestep: 237287 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 237417 Average reward is -0.0497
+
+########## Evaluation ##########
+Timestep: 237564 Average reward is -0.0623
+
+########## Evaluation ##########
+Timestep: 237716 Average reward is -0.0584
+
+########## Evaluation ##########
+Timestep: 237875 Average reward is -0.0598
+
+########## Evaluation ##########
+Timestep: 238020 Average reward is -0.0578
+
+########## Evaluation ##########
+Timestep: 238165 Average reward is -0.0678
+
+########## Evaluation ##########
+Timestep: 238307 Average reward is -0.0798
+
+########## Evaluation ##########
+Timestep: 238445 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 238595 Average reward is -0.0497
+
+########## Evaluation ##########
+Timestep: 238741 Average reward is -0.0698
+
+########## Evaluation ##########
+Timestep: 238890 Average reward is -0.0623
+
+########## Evaluation ##########
+Timestep: 239030 Average reward is -0.0596
+
+########## Evaluation ##########
+Timestep: 239173 Average reward is -0.0509
+
+########## Evaluation ##########
+Timestep: 239316 Average reward is -0.0496
+
+########## Evaluation ##########
+Timestep: 239451 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 239604 Average reward is -0.0365
+
+########## Evaluation ##########
+Timestep: 239758 Average reward is -0.0482
+
+########## Evaluation ##########
+Timestep: 239903 Average reward is -0.0414
+
+########## Evaluation ##########
+Timestep: 240046 Average reward is -0.0662
+
+########## Evaluation ##########
+Timestep: 240202 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 240347 Average reward is -0.0457
+
+########## Evaluation ##########
+Timestep: 240504 Average reward is -0.0496
+
+########## Evaluation ##########
+Timestep: 240656 Average reward is -0.0712
+
+########## Evaluation ##########
+Timestep: 240790 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 240943 Average reward is -0.0849
+
+########## Evaluation ##########
+Timestep: 241100 Average reward is -0.0586
+
+########## Evaluation ##########
+Timestep: 241254 Average reward is -0.0677
+
+########## Evaluation ##########
+Timestep: 241409 Average reward is -0.0664
+
+########## Evaluation ##########
+Timestep: 241555 Average reward is -0.0414
+
+########## Evaluation ##########
+Timestep: 241703 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 241847 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 241992 Average reward is -0.0773
+
+########## Evaluation ##########
+Timestep: 242140 Average reward is -0.0633
+
+########## Evaluation ##########
+Timestep: 242295 Average reward is -0.0603
+
+########## Evaluation ##########
+Timestep: 242444 Average reward is -0.0516
+
+########## Evaluation ##########
+Timestep: 242590 Average reward is -0.0723
+
+########## Evaluation ##########
+Timestep: 242741 Average reward is -0.062
+
+########## Evaluation ##########
+Timestep: 242895 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 243049 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 243201 Average reward is -0.0769
+
+########## Evaluation ##########
+Timestep: 243352 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 243493 Average reward is -0.0742
+
+########## Evaluation ##########
+Timestep: 243632 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 243781 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 243931 Average reward is -0.047
+
+########## Evaluation ##########
+Timestep: 244078 Average reward is -0.074
+
+########## Evaluation ##########
+Timestep: 244226 Average reward is -0.04
+
+########## Evaluation ##########
+Timestep: 244370 Average reward is -0.0713
+
+########## Evaluation ##########
+Timestep: 244516 Average reward is -0.0707
+
+########## Evaluation ##########
+Timestep: 244670 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 244818 Average reward is -0.0617
+
+########## Evaluation ##########
+Timestep: 244968 Average reward is -0.0597
+
+########## Evaluation ##########
+Timestep: 245120 Average reward is -0.0478
+
+########## Evaluation ##########
+Timestep: 245261 Average reward is -0.0562
+
+########## Evaluation ##########
+Timestep: 245409 Average reward is -0.0739
+
+########## Evaluation ##########
+Timestep: 245564 Average reward is -0.0557
+
+########## Evaluation ##########
+Timestep: 245715 Average reward is -0.0495
+
+########## Evaluation ##########
+Timestep: 245865 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 246028 Average reward is -0.0524
+
+########## Evaluation ##########
+Timestep: 246167 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 246314 Average reward is -0.0482
+
+########## Evaluation ##########
+Timestep: 246460 Average reward is -0.048
+
+########## Evaluation ##########
+Timestep: 246608 Average reward is -0.0555
+
+########## Evaluation ##########
+Timestep: 246757 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 246894 Average reward is -0.0649
+
+########## Evaluation ##########
+Timestep: 247044 Average reward is -0.0789
+
+########## Evaluation ##########
+Timestep: 247197 Average reward is -0.0514
+
+########## Evaluation ##########
+Timestep: 247341 Average reward is -0.0768
+
+########## Evaluation ##########
+Timestep: 247488 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 247642 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 247779 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 247926 Average reward is -0.0622
+
+########## Evaluation ##########
+Timestep: 248085 Average reward is -0.0675
+
+########## Evaluation ##########
+Timestep: 248231 Average reward is -0.054
+
+########## Evaluation ##########
+Timestep: 248386 Average reward is -0.0451
+
+########## Evaluation ##########
+Timestep: 248531 Average reward is -0.0474
+
+########## Evaluation ##########
+Timestep: 248687 Average reward is -0.0585
+
+########## Evaluation ##########
+Timestep: 248836 Average reward is -0.0508
+
+########## Evaluation ##########
+Timestep: 248982 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 249112 Average reward is -0.073
+
+########## Evaluation ##########
+Timestep: 249260 Average reward is -0.0695
+
+########## Evaluation ##########
+Timestep: 249409 Average reward is -0.0642
+
+########## Evaluation ##########
+Timestep: 249553 Average reward is -0.0871
+
+########## Evaluation ##########
+Timestep: 249704 Average reward is -0.0516
+
+########## Evaluation ##########
+Timestep: 249850 Average reward is -0.0572
+
+########## Evaluation ##########
+Timestep: 249996 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 250138 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 250292 Average reward is -0.0676
+
+########## Evaluation ##########
+Timestep: 250449 Average reward is -0.048
+
+########## Evaluation ##########
+Timestep: 250600 Average reward is -0.0416
+
+########## Evaluation ##########
+Timestep: 250755 Average reward is -0.0661
+
+########## Evaluation ##########
+Timestep: 250902 Average reward is -0.0744
+
+########## Evaluation ##########
+Timestep: 251039 Average reward is -0.0527
+
+########## Evaluation ##########
+Timestep: 251184 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 251324 Average reward is -0.0611
+
+########## Evaluation ##########
+Timestep: 251465 Average reward is -0.0767
+
+########## Evaluation ##########
+Timestep: 251619 Average reward is -0.0522
+
+########## Evaluation ##########
+Timestep: 251763 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 251904 Average reward is -0.0512
+
+########## Evaluation ##########
+Timestep: 252051 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 252191 Average reward is -0.05
+
+########## Evaluation ##########
+Timestep: 252328 Average reward is -0.0548
+
+########## Evaluation ##########
+Timestep: 252464 Average reward is -0.0761
+
+########## Evaluation ##########
+Timestep: 252611 Average reward is -0.058
+
+########## Evaluation ##########
+Timestep: 252750 Average reward is -0.0693
+
+########## Evaluation ##########
+Timestep: 252890 Average reward is -0.0714
+
+########## Evaluation ##########
+Timestep: 253036 Average reward is -0.0465
+
+########## Evaluation ##########
+Timestep: 253173 Average reward is -0.0454
+
+########## Evaluation ##########
+Timestep: 253312 Average reward is -0.0373
+
+########## Evaluation ##########
+Timestep: 253459 Average reward is -0.0579
+
+########## Evaluation ##########
+Timestep: 253606 Average reward is -0.0544
+
+########## Evaluation ##########
+Timestep: 253756 Average reward is -0.0568
+
+########## Evaluation ##########
+Timestep: 253901 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 254049 Average reward is -0.0499
+
+########## Evaluation ##########
+Timestep: 254197 Average reward is -0.0646
+
+########## Evaluation ##########
+Timestep: 254346 Average reward is -0.0577
+
+########## Evaluation ##########
+Timestep: 254487 Average reward is -0.0554
+
+########## Evaluation ##########
+Timestep: 254627 Average reward is -0.0529
+
+########## Evaluation ##########
+Timestep: 254769 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 254912 Average reward is -0.069
+
+########## Evaluation ##########
+Timestep: 255053 Average reward is -0.0569
+
+########## Evaluation ##########
+Timestep: 255194 Average reward is -0.0611
+
+########## Evaluation ##########
+Timestep: 255341 Average reward is -0.0512
+
+########## Evaluation ##########
+Timestep: 255483 Average reward is -0.0612
+
+########## Evaluation ##########
+Timestep: 255617 Average reward is -0.0476
+
+########## Evaluation ##########
+Timestep: 255763 Average reward is -0.0684
+
+########## Evaluation ##########
+Timestep: 255913 Average reward is -0.0478
+
+########## Evaluation ##########
+Timestep: 256069 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 256218 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 256383 Average reward is -0.0653
+
+########## Evaluation ##########
+Timestep: 256532 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 256684 Average reward is -0.0604
+
+########## Evaluation ##########
+Timestep: 256819 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 256968 Average reward is -0.0616
+
+########## Evaluation ##########
+Timestep: 257116 Average reward is -0.0689
+
+########## Evaluation ##########
+Timestep: 257269 Average reward is -0.0476
+
+########## Evaluation ##########
+Timestep: 257407 Average reward is -0.0471
+
+########## Evaluation ##########
+Timestep: 257564 Average reward is -0.0636
+
+########## Evaluation ##########
+Timestep: 257711 Average reward is -0.0571
+
+########## Evaluation ##########
+Timestep: 257863 Average reward is -0.056
+
+########## Evaluation ##########
+Timestep: 258008 Average reward is -0.0729
+
+########## Evaluation ##########
+Timestep: 258151 Average reward is -0.0628
+
+########## Evaluation ##########
+Timestep: 258305 Average reward is -0.0647
+
+########## Evaluation ##########
+Timestep: 258453 Average reward is -0.0539
+
+########## Evaluation ##########
+Timestep: 258607 Average reward is -0.0776
+
+########## Evaluation ##########
+Timestep: 258746 Average reward is -0.0375
+
+########## Evaluation ##########
+Timestep: 258901 Average reward is -0.0637
+
+########## Evaluation ##########
+Timestep: 259044 Average reward is -0.0557
+
+########## Evaluation ##########
+Timestep: 259187 Average reward is -0.0755
+
+########## Evaluation ##########
+Timestep: 259345 Average reward is -0.0514
+
+########## Evaluation ##########
+Timestep: 259481 Average reward is -0.0659
+
+########## Evaluation ##########
+Timestep: 259642 Average reward is -0.057
+
+########## Evaluation ##########
+Timestep: 259785 Average reward is -0.0532
+
+########## Evaluation ##########
+Timestep: 259939 Average reward is -0.06
+
+########## Evaluation ##########
+Timestep: 260087 Average reward is -0.0465
+
+########## Evaluation ##########
+Timestep: 260239 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 260384 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 260539 Average reward is -0.0764
+
+########## Evaluation ##########
+Timestep: 260690 Average reward is -0.0726
+
+########## Evaluation ##########
+Timestep: 260838 Average reward is -0.0538
+
+########## Evaluation ##########
+Timestep: 260997 Average reward is -0.0489
+
+########## Evaluation ##########
+Timestep: 261150 Average reward is -0.0483
+
+########## Evaluation ##########
+Timestep: 261311 Average reward is -0.0624
+
+########## Evaluation ##########
+Timestep: 261458 Average reward is -0.0682
+
+########## Evaluation ##########
+Timestep: 261602 Average reward is -0.0561
+
+########## Evaluation ##########
+Timestep: 261750 Average reward is -0.0451
+
+########## Evaluation ##########
+Timestep: 261885 Average reward is -0.0458
+
+########## Evaluation ##########
+Timestep: 262033 Average reward is -0.0471
+
+########## Evaluation ##########
+Timestep: 262191 Average reward is -0.052
+
+########## Evaluation ##########
+Timestep: 262349 Average reward is -0.0643
+
+########## Evaluation ##########
+Timestep: 262492 Average reward is -0.0472
+
+########## Evaluation ##########
+Timestep: 262638 Average reward is -0.0687
+
+########## Evaluation ##########
+Timestep: 262789 Average reward is -0.0749
+
+########## Evaluation ##########
+Timestep: 262923 Average reward is -0.0548
+
+########## Evaluation ##########
+Timestep: 263071 Average reward is -0.0696
+
+########## Evaluation ##########
+Timestep: 263229 Average reward is -0.0666
+
+########## Evaluation ##########
+Timestep: 263388 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 263537 Average reward is -0.0487
+
+########## Evaluation ##########
+Timestep: 263689 Average reward is -0.0476
+
+########## Evaluation ##########
+Timestep: 263840 Average reward is -0.0438
+
+########## Evaluation ##########
+Timestep: 263995 Average reward is -0.0619
+
+########## Evaluation ##########
+Timestep: 264152 Average reward is -0.0464
+
+########## Evaluation ##########
+Timestep: 264288 Average reward is -0.0638
+
+########## Evaluation ##########
+Timestep: 264440 Average reward is -0.0548
+
+########## Evaluation ##########
+Timestep: 264587 Average reward is -0.0518
+
+########## Evaluation ##########
+Timestep: 264729 Average reward is -0.0629
+
+########## Evaluation ##########
+Timestep: 264887 Average reward is -0.0663
+
+########## Evaluation ##########
+Timestep: 265047 Average reward is -0.0691
+
+########## Evaluation ##########
+Timestep: 265186 Average reward is -0.0458
+
+########## Evaluation ##########
+Timestep: 265344 Average reward is -0.066
+
+########## Evaluation ##########
+Timestep: 265494 Average reward is -0.0665
+
+########## Evaluation ##########
+Timestep: 265651 Average reward is -0.0504
+
+########## Evaluation ##########
+Timestep: 265796 Average reward is -0.0598
+
+########## Evaluation ##########
+Timestep: 265942 Average reward is -0.0538
+
+########## Evaluation ##########
+Timestep: 266095 Average reward is -0.0727
+
+########## Evaluation ##########
+Timestep: 266239 Average reward is -0.0487
+
+########## Evaluation ##########
+Timestep: 266383 Average reward is -0.0449
+
+########## Evaluation ##########
+Timestep: 266536 Average reward is -0.0625
+
+########## Evaluation ##########
+Timestep: 266695 Average reward is -0.0618
+
+########## Evaluation ##########
+Timestep: 266856 Average reward is -0.0567
+
+########## Evaluation ##########
+Timestep: 266998 Average reward is -0.0363
+
+########## Evaluation ##########
+Timestep: 267142 Average reward is -0.051
+
+########## Evaluation ##########
+Timestep: 267289 Average reward is -0.046
+
+########## Evaluation ##########
+Timestep: 267426 Average reward is -0.0472
+
+########## Evaluation ##########
+Timestep: 267575 Average reward is -0.0685
+
+########## Evaluation ##########
+Timestep: 267726 Average reward is -0.0648
+
+########## Evaluation ##########
+Timestep: 267878 Average reward is -0.0706
+
+########## Evaluation ##########
+Timestep: 268023 Average reward is -0.0715
+
+########## Evaluation ##########
+Timestep: 268168 Average reward is -0.0515
+
+########## Evaluation ##########
+Timestep: 268333 Average reward is -0.0499
+
+########## Evaluation ##########
+Timestep: 268489 Average reward is -0.0464
+
+########## Evaluation ##########
+Timestep: 268638 Average reward is -0.0431
+
+########## Evaluation ##########
+Timestep: 268782 Average reward is -0.0541
+
+########## Evaluation ##########
+Timestep: 268933 Average reward is -0.064
+
+########## Evaluation ##########
+Timestep: 269088 Average reward is -0.0475
+
+########## Evaluation ##########
+Timestep: 269238 Average reward is -0.0528
+
+########## Evaluation ##########
+Timestep: 269390 Average reward is -0.0564
+
+########## Evaluation ##########
+Timestep: 269534 Average reward is -0.0467
+
+########## Evaluation ##########
+Timestep: 269678 Average reward is -0.0513
+
+########## Evaluation ##########
+Timestep: 269825 Average reward is -0.0373
+
+########## Evaluation ##########
+Timestep: 269982 Average reward is -0.0641
+
+########## Evaluation ##########
+Timestep: 270131 Average reward is -0.0657
+
+########## Evaluation ##########
+Timestep: 270270 Average reward is -0.0583
+
+########## Evaluation ##########
+Timestep: 270415 Average reward is -0.0605
+
+########## Evaluation ##########
+Timestep: 270563 Average reward is -0.0808
+
+########## Evaluation ##########
+Timestep: 270716 Average reward is -0.0563
+
+########## Evaluation ##########
+Timestep: 270866 Average reward is -0.0685
